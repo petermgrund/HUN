@@ -1,5 +1,5 @@
 # Basic Site Info
-title: Jekyll News Theme
+title: Hverlandisk Útvarpsnet
 description: "Built with Morpheus636's Jekyll-News Theme"
 author: Morpheus636
 
@@ -11,7 +11,7 @@ flag:
 # Comments
 disqus:
   enabled: true
-  shortname: jekyll-news-demo  #REPLACEME
+  shortname: HUN  #REPLACEME
 
 # Analytics
 google_analytics: G-GRV8PX7ZN1

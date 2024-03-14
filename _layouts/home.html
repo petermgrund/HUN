@@ -20,7 +20,7 @@ layout: base
                 <a class="post-list-headline" href="{{ post.url }}">{{ post.title }}</a>
                 {%- assign date = post.date | date: "%B %-d, %Y" -%}
                 {%- if post.author and post.author-title -%}
-                  <p class="post-list-byline">{{post.author}}, {{post.author-title}} | {{ date }}</p>
+                  <p class="post-list-byline">{{ date }}</p>
                 {%- else -%}
                   <p class="post-list-byline">{{ date }}</p>
                 {%- endif -%}

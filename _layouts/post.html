@@ -2,13 +2,20 @@
 layout: base 
 ---
 {%- if page.title -%}
-  <h1 class="headline">{{page.title}}</h1>
+  <h1 class="headline"><hr><i>{{page.title}}</i></h1>
 {%- endif -%}
-<hr/ class="hed-rule">
 {%- if page.subhed -%}
-  <h2 class="subhed">{{ page.subhed }}</h2>
+  <p class="subhed">{{ page.subhed }}</p>
 {%- endif -%}
 
+{%- if page.featured-image.path -%}
+  <div class="featured-image-container">
+  <figure class="featured-image">
+    <img src="{{ page.featured-image.path }}" alt="{{ page.featured-image.alt-text }}"/>
+    <figcaption>{{ page.featured-image.cutline }}</figcaption>
+  </figure>
+  </div>
+{%- endif -%}
 {%- assign date = page.date | date: "%B %-d, %Y" -%}
 {%- if page.author and page.author-title -%}
   {%- for profile in site.staff -%}
@@ -17,17 +24,8 @@ layout: base
     {%- endif -%}
   {%- endfor -%}
     <h3 class="byline"><a href="{{profile-link}}">{{page.author}}</a>, {{page.author-title}} | {{ date }}</h3>
+    <h3 class="byline"><b>{{ date }}</b></h3>
 {%- else -%}
-  <h3 class="byline">{{ date }}</h3>
-{%- endif -%}
-
-{%- if page.featured-image.path -%}
-  <div class="featured-image-container">
-  <figure class="featured-image">
-    <img src="{{ page.featured-image.path }}" alt="{{ page.featured-image.alt-text }}"/>
-    <figcaption>{{ page.featured-image.cutline }} - Photo by {{ page.featured-image.credit }}</figcaption>
-  </figure>
-  </div>
 {%- endif -%}
 <article class="article-content">
   {{ content }}

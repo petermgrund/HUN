@@ -3,3 +3,7 @@
 
 @import 'jekyll-news';
 @import "overrides";
+@font-face {
+    font-family: 'YourFontName';
+    src: url('path/to/font.ttf') format('truetype');
+}

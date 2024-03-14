@@ -49,6 +49,7 @@ hr {
   margin-right: auto;
   width: 75%;
   object-fit: contain;
+  
   max-height: 150px;
 }
 @media screen and (max-width: $mobile-width) {
@@ -58,8 +59,6 @@ hr {
 }
 
 .header-nav {
-  border-top: $border-style;
-  border-bottom: $border-style;
   text-align: center;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -152,22 +151,30 @@ hr {
 
 /* Story Layout Elements */
 .headline {
-  text-align: center;
+  text-align: left;
+  font-weight: bold;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .subhed {
-  text-align: center;
-  color: #707070;
+  text-align: left;
+  color: #000000;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-weight: light;
 }
 
 .byline {
-  text-align: center;
+  text-align: left;
   font-weight: normal;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .hed-rule {
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 /* Featured image and cutline */
@@ -175,9 +182,10 @@ hr {
   display: flex;
   justify-content: center;
 }
+
 .featured-image {
   display: inline-block;
-  max-width: 70%;
+  max-width: 50%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;}
@@ -185,7 +193,7 @@ hr {
   width: 100%;
 }
 .featured-image figcaption {
-  text-align: right;
+  text-align: left;
   font-weight: light;
 }
 @media screen and (max-width: $mobile-width) {
@@ -196,8 +204,8 @@ hr {
 
 /* Article Body Elements*/
 .article-content {
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
   font-size: 14pt;
   line-height: 1.5;
 }
