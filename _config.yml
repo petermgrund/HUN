@@ -21,11 +21,12 @@ adsense:
 collections:
   posts:
     output: true
+    permalink: /:categories/:year/:month/:day/:title/
   staff:
     output: true
+    permalink: /about/staff/:title
 
 # Build settings
-
 repository: petermgrund/HUN
 markdown: kramdown
 remote_theme: morpheus636/jekyll-news
