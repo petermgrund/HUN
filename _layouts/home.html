@@ -17,7 +17,7 @@ layout: base
                   <img class="list-image" src="{{ post.featured-image.path }}" alt="{{ post.featured-image.alt-text }}"/>
                 {%- endif -%}
 
-                <a class="post-list-headline" href="{{ post.url }}">{{ post.title }}</a>
+                <a class="post-list-headline" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 {%- assign date = post.date | date: "%B %-d, %Y" -%}
                 {%- if post.author -%}
                   <p class="post-list-byline">{{ date }}</p>
