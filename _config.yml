@@ -3,10 +3,6 @@ title: Hverlandisk Útvarpsnet
 description: "Hverland's national public broadcasting corporation"
 author: Hverlandisk Útvarpsnet
 
-# Site Flag
-flag:
-  show: true
-  path: /assets/flag.svg
 
 # Comments
 disqus:
@@ -25,7 +21,7 @@ adsense:
 collections:
   posts:
     output: true
-    permalink: /:categories/:year/:month/:day/:title/
+    permalink: /HUN/:categories/:year/:month/:day/:title/
   staff:
     output: true
     permalink: /about/staff/:title
