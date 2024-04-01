@@ -21,7 +21,7 @@ adsense:
 collections:
   posts:
     output: true
-    permalink: /HUN/:categories/:year/:month/:day/:title/
+    permalink: HUN/:categories/:year/:month/:day/:title/
   staff:
     output: true
     permalink: /about/staff/:title
