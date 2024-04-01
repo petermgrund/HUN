@@ -1,8 +1,8 @@
 ---
 layout: staff-profile
-title: John Doe
+title: Pétur Pétursson
 author-title: Staff Writer
 staff-position: 
 mug-path: 
 ---
-John Doe is a test reporter.
+Pétur Pétursson is a reporter.

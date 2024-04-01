@@ -1,16 +1,16 @@
 # Basic Site Info
 title: Hverlandisk Útvarpsnet
-description: "Built with Morpheus636's Jekyll-News Theme"
-author: Morpheus636
+description: "Hverland's national public broadcasting corporation"
+author: Hverlandisk Útvarpsnet
 
 # Site Flag
 flag:
   show: true
-  path: /assets/flag.png
+  path: /assets/flag.svg
 
 # Comments
 disqus:
-  enabled: true
+  enabled: false
   shortname: HUN  #REPLACEME
 
 # Analytics

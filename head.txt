@@ -1,0 +1,10 @@
+---
+title: 
+subhed: 
+author: 
+featured-image: 
+  path: 
+  cutline: 
+layout: post
+category: 
+---

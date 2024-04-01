@@ -17,18 +17,20 @@ layout: base
   </div>
 {%- endif -%}
 {%- assign date = page.date | date: "%B %-d, %Y" -%}
-{%- if page.author and page.author-title -%}
+{%- if page.author -%}
   {%- for profile in site.staff -%}
     {%- if page.author == profile.title -%}
       {%- assign profile-link = profile.url -%}
     {%- endif -%}
   {%- endfor -%}
-    <h3 class="byline"><a href="{{profile-link}}">{{page.author}}</a>, {{page.author-title}} | {{ date }}</h3>
-    <h3 class="byline"><b>{{ date }}</b></h3>
+    <h3 class="byline"><small><b>By {{page.author}}</b><br>{{ date }}</small></h3>
 {%- else -%}
 {%- endif -%}
 <article class="article-content">
   {{ content }}
+  {%- if page.category -%}
+  <small>Tags: {{page.category}}</small>
+  {%- endif -%}  
 </article>
 
 {%- include disqus.html -%}

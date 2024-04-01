@@ -3,7 +3,8 @@
 body, html {
   margin-left:7%;
   margin-right:7%;
-  background-color: $background-color
+  background-color: $background-color;
+  padding-bottom: 20px;
 }
 @media screen and (max-width: $mobile-width) {
   body, html {
@@ -88,7 +89,7 @@ hr {
   border-top: $border-style;
   padding-left: 10px;
   padding-right: 10px;
-  padding-top: 5px;
+  padding-top: 100px;
   padding-bottom: 5px;
 }
 
@@ -264,4 +265,9 @@ hr {
   .staff-mug {
       float: none;       
   }
+}
+
+a:focus,
+button:focus {
+  outline: solid 3px #ffbf47;
 }

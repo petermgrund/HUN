@@ -4,3 +4,14 @@
 body {
     font-family: Verdana, sans-serif;
 }
+
+hr {
+    box-sizing: content-box; /* 1 */
+    height: 0; /* 1 */
+    overflow: visible; /* 2 */
+  }
+
+.container { /* Replace '.container' with the actual class or ID of your main content wrapper */
+    padding-bottom: 50px; /* Adjust the value as needed */
+  }
+  
