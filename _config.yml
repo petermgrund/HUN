@@ -2,7 +2,7 @@
 title: Hverlandisk Útvarpsnet
 description: "Hverland's national public broadcasting corporation"
 author: Hverlandisk Útvarpsnet
-
+baseurl: /HUN
 
 # Comments
 disqus:
@@ -21,12 +21,11 @@ adsense:
 collections:
   posts:
     output: true
-    permalink: HUN/:categories/:year/:month/:day/:title/
   staff:
     output: true
-    permalink: /about/staff/:title
 
 # Build settings
+
 repository: petermgrund/HUN
 markdown: kramdown
 remote_theme: morpheus636/jekyll-news
