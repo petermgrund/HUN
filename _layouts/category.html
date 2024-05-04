@@ -4,11 +4,7 @@ layout: base
 <h1>{{ page.title }}</h1>
 <div>
   {%- for post in site.categories[page.title] -%}
-    {%- if post.featured-image.path -%}
     <div class="post-list-post">
-      {%- if post.featured-image.path -%}
-        <img class="list-image" src="{{ post.featured-image.path }}" />
-      {%- endif -%}
 
       <a class="post-list-headline" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       {%- assign date = post.date | date: "%B %-d, %Y" -%}
@@ -29,7 +25,6 @@ layout: base
         <span class="post-list-summary">{{ excerpt }}</span>
       {%- endif -%}           
     </div>
-  {%- endif -%}
 
 {% endfor %}
 </div>
