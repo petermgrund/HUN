@@ -6,7 +6,7 @@ page-image:
   cutline: 1984 portrait during her tenure as Mayor of Hverhöfn
 ---
 
-**Ingibjörg Hallgrímsdóttir** (3 April, 1938 – 12 September, 2022) was a Hverlandic politician and lawyer who served as President of Hverland from 2009 to 2015. Politically unaffiliated at the time of her election, Ingibjörg was a consensus candidate supported by all of Hverland's major parties against the Social Democratic Party. She became the first woman to serve as President of Hverland. She passed away on September 12, 2022, leaving behind a legacy of social reform.
+**Ingibjörg Hallgrímsdóttir** (3 April, 1938 – 12 September, 2022) was a Hverlandic politician and lawyer who served as President of Hverland from 2009 to 2015. She was the first woman to serve as President of Hverland. She passed away on September 12, 2022.
 
 ### Early life and education
 Ingibjörg Hallgrímsdóttir was born on April 6, 1938, in [[Egilsstaðir]], a small fishing village in Hverland. She is the youngest of four children. Her father was a shipwright, and her mother worked as a folklore historian with a specialization in Hverlandic maritime legends.
