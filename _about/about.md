@@ -1,3 +1,12 @@
+---
+layout: page
+title: Hverland
+page-image: 
+  path:  
+  cutline: 
+permalink: about/
+---
+
 Hverland (Hverlandic: Hverlands, pronounced [ˈhverland]) is a Nordic archipelago country located in the North Atlantic Ocean. Hverland lies northwest of Scotland, northeast of Greenland, southeast of Iceland, and west of Norway. The Faroe Islands are located to the country's southeast. Hverland's capital and largest city is Hverhöfn, which is home to over 60% of the country's roughly 134,000 residents. Hverland is one of the most sparsely populated countries in the world.
 
 Geographically, Hverland is characterized by a mixture of rugged mountainous terrain, sweeping plains, and numerous rivers that flow towards the coast. It is positioned in the northern hemisphere and lies slightly to the east of the Greenland Sea, within the vicinity of the Arctic Circle. This positioning gives Hverland a cold, maritime climate influenced by the Gulf Stream.
