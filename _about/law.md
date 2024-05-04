@@ -1,3 +1,12 @@
+---
+layout: page
+title: Law of Hverland
+page-image: 
+  path:  
+  cutline: 
+permalink: about/law
+---
+
 The law of Hverland refers to the legal system and the body of laws that govern the state, its people, and entities of Hverland. Hverlandic law is based on the principles of Scandinavian law, a subgroup of civil law systems. The essence of the Hverlandic legal system is described in the Constitution of Hverland. The two branches of law are public law and private law.
 
 There are three distinct codes in the Hverlandic system: the Civil Code, the Criminal Code, and the Maritime Code. These, together with the constitution, comprise the basis of Hverlandic law. Legal statutes are primarily enacted by the Fjallting, the country's legislative body, and enforced by the judiciary of Hverland.

@@ -1,4 +1,11 @@
-
+---
+layout: page
+title: Moderates
+page-image: 
+  path:  
+  cutline: 
+permalink: about/politics/moderates
+---
 
 The Moderates (Hverlandic: Móðgunarmenn) is a centre-right political party in Hverland, established in 2000. The party is known for its socially conservative and fiscally pragmatic policies. The Moderates are a member of the ruling coalition government, along with the Centre Party and the Conservative Nationals. Its leader is Sigríður Anderson who was selected as party leader in 2022. The Moderates have 9 seats in the Fjallting.
 

@@ -4,6 +4,7 @@ title: Alternative
 page-image: 
   path:  
   cutline: 
+permalink: about/politics/alternative
 ---
 
 **Alternative** (Hverlandic: *Kostgjafi*) is a social liberal and green liberal political party in Hverland, founded in 2015. Headed by leader Kristján Þór Júlíusson, the party currently holds 2 out of 81 seats in the Fjallting and 4 of 174 seats in local municipalities. It does not contest Sámedagi seats.

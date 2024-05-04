@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Urban Progressives
+permalink: about/politics/urban-progressives
 ---
 
 The **Urban Progressives** (Hverlandic: *Borgarframfaraflokkurinn*), led by Einar Halldórsson, are a left-leaning political party in Hverland. The party is known for its focus on urban issues and representing the issues of the country's growing urbanite population. The Urban Progressives advocate for transformative urban planning that prioritizes public transportation, green spaces, sustainable development, and mixed-use zoning. The party is a promponent of demopolitanism, a political philosophy that pursues cosmopolitian neighborhood character and an opposition to high modernism.
