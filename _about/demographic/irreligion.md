@@ -5,6 +5,7 @@ page-image:
   path:  
   cutline: 
 permalink: about/irreligion
+category: "Demographics"
 ---
 
 Today, about 11 percent of Hverland's population identifies as irreligious, equating to over 15,000 people. This group includes atheists, agnostics, and individuals who identify as spiritual but not religious. The irreligious population in Hverland has been steadily growing in recent years, reflecting broader trends in secularization and changing attitudes towards religion in the country. The irreligious population is expected to continue to grow.

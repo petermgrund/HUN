@@ -297,3 +297,19 @@ a:focus,
 button:focus {
   outline: solid 3px #ffbf47;
 }
+
+.court-filing {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.court-filing div {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.court-filing .content {
+  grid-column: span 2;
+}

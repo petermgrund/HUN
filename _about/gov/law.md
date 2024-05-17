@@ -4,7 +4,8 @@ title: Law of Hverland
 page-image: 
   path:  
   cutline: 
-permalink: about/law
+category: "Government"
+permalink: /about/government/law
 ---
 
 The law of Hverland refers to the legal system and the body of laws that govern the state, its people, and entities of Hverland. Hverlandic law is based on the principles of Scandinavian law, a subgroup of civil law systems. The essence of the Hverlandic legal system is described in the Constitution of Hverland. The two branches of law are public law and private law.
