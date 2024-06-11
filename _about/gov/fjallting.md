@@ -16,15 +16,15 @@ The Fjallting consists of 81 elected members who serve four-year terms. Members 
 
 The 2023 parliamentary election determined the current composition:
 * Government (43)
-    * Centre Party (19)
-    * Conservative Nationals (10)
-    * Moderates (9)
+    * <a href="{{ '/about/centre' | relative_url }}">Centre Party</a> (19)
+    * <a href="{{ '/about/conservatives' | relative_url }}">Conservative Nationals</a> (10)
+    * <a href="{{ '/about/moderates' | relative_url }}">Moderates</a> (9)
 * Confidence and supply
-    * Visionary Party (6)
+    * <a href="{{ '/about/visionary' | relative_url }}">Visionary Party</a> (6)
 
 * Other parties (38)
-    * Liberals (13)
-    * The Greens (10)
+    * <a href="{{ '/about/liberals' | relative_url }}">Liberals</a> (13)
+    * <a href="{{ '/about/greens' | relative_url }}">The Greens</a> (10)
     * Social Democratic Party (8)
     * Urban Progressives (3)
     * Alternative (2)

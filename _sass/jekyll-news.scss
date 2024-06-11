@@ -237,6 +237,14 @@ hr {
   line-height: 1.5;
 }
 
+/* Wiki Body Elements*/
+.wiki-content {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 14pt;
+  line-height: 1.5;
+}
+
 /* Post List Elements */
 .post-list-post {
   display: inline-block;
@@ -312,4 +320,9 @@ button:focus {
 
 .court-filing .content {
   grid-column: span 2;
+}
+
+.page-image img {
+  max-height: 200px;
+  width: auto;
 }

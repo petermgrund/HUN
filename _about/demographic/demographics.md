@@ -163,3 +163,29 @@ th {
     <td>2,756 (2.06%)</td>
     </tr>
 </table>
+
+# Language
+Hverlandic is the official language and is spoken by the majority of the population. Hveratut, the indigenous language of the Hvérfolk, is also spoken by a small percentage of the population. English is widely taught in schools and is commonly used in business and government. 
+
+### Primary language
+
+The primary language spoken at home in Hverland from 1962 to 2022 has predominantly been Hverlandic. In 1962, it was spoken by 97.41% of the population, or 73,125 individuals. Over the decades, this percentage has shown a slight decline, yet it still remained the dominant language as of 2022 when it was spoken by 93.44% of the population, or 125,260 individuals. The remaining languages spoken at home have shown varied trends over this period. Notably, Spanish and Polish languages have seen a considerable increase. In 1962, Spanish was practically non-existent, with only two speakers, but by 2022 it was spoken by 1.68% of the population, or 2,252 individuals. Similarly, Polish language speakers were non-existent in 1962, but grew to 1.42% of the population, or 1,909 individuals, in 2022.
+
+### Fluency
+
+The data on languages spoken fluently in Hverland between 1962 and 2022 reveals some distinct trends. Hverlandic, the native language, has maintained near-ubiquitous fluency among the population. In 1962, 99.07% of the population, or 74,374 individuals, were fluent in Hverlandic. This number has slightly declined in percentage but grown in actual numbers, with 97.81% of the population, or 131,113 individuals, reporting fluency in 2022. 
+
+The second most fluently spoken language is English, showing a significant increase over time. In 1962, English fluency was at 17.72%, or 43,300 individuals. By 2022, this number rose drastically to 93.4% of the population, or 125,211 individuals. 
+
+Fluency in Spanish has also shown a gradual increase. In 1962, 2.56% of the population, or 1,925 individuals, were fluent in Spanish. This rose to 5.17% of the population, or 6,935 individuals, in 2022. Polish fluency saw a similar but more modest increase from 0.02% in 1962 (13 individuals) to 1.91% in 2022 (2,555 individuals). 
+
+# Religion
+The majority of Hverlanders are Lutheran, reflecting the country's historical and cultural ties to other Nordic countries. However, there are also small communities of other Christian denominations, as well as other religions. The Hvérfolk traditionally practice a form of animistic spirituality, though many also identify as Lutheran. 
+
+The religious landscape of Hverland has undergone noticeable changes from 1962 to 2022. The Church of Hverland, which forms the religious majority, has seen a decline in its proportion of followers over these six decades. In 1962, the Church accounted for an overwhelming 96.7% of the population. By 2022, however, this number had fallen to 82.56%, despite an increase in absolute numbers to 110,671 individuals. 
+
+When aggregating all Christian denominations, including the Church of Hverland, the Catholic Church, Eastern Orthodoxy, the Free Church in Hverhöfn, and other Christians, we observe a more stable but still decreasing trend. Christians made up 97.56% of the population in 1962, which declined to 88.92% in 2022. Within this, the Catholic Church and Eastern Orthodoxy have experienced growth, constituting 2.52% and 1.36% of the population in 2022, respectively. Other Christian denominations have also seen an increase in numbers, rising from 0.28% in 1962 to 1.71% in 2022. 
+
+The presence of folk, pagan, or heathen religions has slightly diminished over the years, from 0.79% in 1962 to 0.31% in 2022. Other non-Christian religions like Judaism, Islam, Hinduism, and Buddhism remain relatively marginal, each constituting less than 0.1% of the population as of 2022. Collectively, these other religions have seen modest growth, constituting 0.39% in 1962 and rising to 0.47% in 2022. 
+
+The number of unaffiliated individuals has surged, indicating a substantial shift towards secularism or non-religious belief systems. In 1962, the unaffiliated constituted a mere 1.1% of the population, or 826 individuals. By 2022, this category has risen to 10.09%, representing 13,524 individuals. This suggests that Hverland is undergoing a marked change in its religious landscape, characterized by a declining Christian majority and a growing secular population. 
