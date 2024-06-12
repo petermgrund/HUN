@@ -36,7 +36,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>CP</td>
-        <td>Centre Party</td>
+        <td><a href="{{ '/about/centre' | relative_url }}">Centre Party</a></td>
         <td>Agrarianism</td>
         <td>Centre-right</td>
         <td>
@@ -53,7 +53,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>LI</td>
-        <td>Liberals</td>
+        <td><a href="{{ '/about/liberals' | relative_url }}">Liberals</a></td>
         <td>Social liberalism</td>
         <td>Centre-left</td>
         <td>
@@ -87,7 +87,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>GR</td>
-        <td>The Greens</td>
+        <td><a href="{{ '/about/greens' | relative_url }}">The Greens</a></td>
         <td>Bright green environmentalism</td>
         <td>Left-wing</td>
         <td>
@@ -104,9 +104,9 @@ category: "Political parties"
     </tr>
     <tr>
         <td>MD</td>
-        <td>Moderates</td>
-        <td>Radical centrism</td>
-        <td>Centre</td>
+        <td><a href="{{ '/about/moderates' | relative_url }}">Moderates</a></td>
+        <td>Populism</td>
+        <td>Right-wing</td>
         <td>
             <div class="composition-bar">
                 <div style="background-color:#377DB4; width:11.11%;"></div>
@@ -121,7 +121,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>SD</td>
-        <td>Social Democratic Party</td>
+        <td><a href="{{ '/about/social-dems' | relative_url }}">Social Democratic Party</a></td>
         <td>Socialism</td>
         <td>Left-wing</td>
         <td>
@@ -138,7 +138,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>VP</td>
-        <td>Visionary Party</td>
+        <td><a href="{{ '/about/visionary' | relative_url }}">Visionary</a></td>
         <td>Techno-populism</td>
         <td>Big tent</td>
         <td>
@@ -155,7 +155,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>UP</td>
-        <td>Urban Progressives</td>
+        <td><a href="{{ '/about/urban-progressives' | relative_url }}">Urban Progressives</a></td>
         <td>Demopolitanism</td>
         <td>Centre-left</td>
         <td>
@@ -172,7 +172,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>AL</td>
-        <td>Alternative</td>
+        <td><a href="{{ '/about/alternative' | relative_url }}">Alternative</a></td>
         <td>Green liberalism</td>
         <td>Big tent</td>
         <td>
@@ -189,7 +189,7 @@ category: "Political parties"
     </tr>
     <tr>
         <td>AB</td>
-        <td>Albmotvâlgabealde (Hverfolk Party)</td>
+        <td><a href="{{ '/about/albmotvalgabealde' | relative_url }}">Albmotválgabealde</a></td>
         <td>Indigenous rights</td>
         <td>Left-wing</td>
         <td>

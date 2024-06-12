@@ -5,6 +5,7 @@ page-image:
   path:  
   cutline: 
 category: "Political parties"
+permalink: /about/albmotvalgabealde
 ---
 
 <div style="text-align: left;">
