@@ -8,7 +8,7 @@ page-image:
 permalink: 
 ---
 
-**Eyrune Marisioradotra** (born 9 December 1957) is a Hverlandic politician who has served as the leader of the Centre Party since 2021. She is a member of the Fjallting, representing the Greater Eyjatjorn constituency. 
+**Eyrune Marisioradotra** (born 9 December 1957) is a Hverlandic politician who has served as the leader of the <a href="{{ '/about/centre' | relative_url }}">Centre Party</a> since 2021. She is a member of the Fjallting, representing the Greater Eyjatjorn constituency. 
 
 ### Early life and education
 Eyrune was born on December 9, 1957 in Hverhöfn. She grew up in a working-class family and was the youngest of three siblings. Her father was a fisherman, and her mother worked as a nurse at the National Medical Center. She attended local public schools in Hverhöfn and went on to study political science at the University of Hverland. After completing her undergraduate degree, she pursued a master's degree in public policy and administration in the United States at the University of Minnesota. 
@@ -24,7 +24,6 @@ After her mother's passing in 2013, Eyrune decided to re-enter politics. She ran
 Following the retirement of former party leader and president of Hverland Þórdís Björnsdotra, Eyrune was elected as the leader of the Centre Party in 2021. Her platform focuses on investing and developing rural areas, improving healthcare, and attracting foreign investment to Hverland. She has been a notable critic of Hverland's technology sector and the recent smart city initiatives that Hverhöfn has undertaken, citing concerns about privacy, data security, and cost. 
 
 She led the party into the 2022 election where the Centre Party gained 1 seat in the Fjallting, bringing their total to 23. The party formed a coalition government with Conservative Nationals and the Moderates. Despite being the leader of the largest party in the coalition, Eyrune declined the position of superintendent of state and instead became the chairperson of the newly formed Office for Rural Development. She tapped Ólafur Stefánssundr, a fellow Centre Party member from the Hverhöfn North constituency, to be the superintendent of state.
-
 
 ### Personal life
 Þórdís Björnsdotra is married and has two children. She is a member of the Church of Hverland and attends services regularly. In her free time, she enjoys hiking, reading, and spending time with her family.

@@ -16,4 +16,6 @@ The Centre Party was founded in 1922 amidst a period of great societal change in
 ### Leadership
 - Hjörleifur Hjörleifsundr (1922-1932)
 - Þórdís Björnsdotra (2013-2021)
-- Eyrune Marisioradotra (2021-present)
+- <a href="{{ '/about/Eyrune-Marisioradotra' | relative_url }}">Eyrune Marisioradotra</a> (2021-present)
+
+### Ideology

@@ -8,7 +8,7 @@ permalink: /about/locations/hverhofn
 category: "Locations"
 ---
 
-Hverhöfn (pronounced [ˈhverˌhœfn]) is the capital city of <a href="{{ '/about/locations/Hverland' | relative_url }}">Hverland</a>. With a population of 81,740 as of 2022, it is also the most populous settlement in the country, housing over 60% of the national population. The city is positioned in the southwestern coves of Eyjatjorn island, the largest in the Hverland archipelago. The city and serves as the heart of the country's political, economic, and cultural activities. Covering an area of 124 square kilometers, Hverhöfn boasts a high density of 660 residents per square kilometer. 
+**Hverhöfn** (pronounced [ˈhverˌhœfn]) is the capital city of <a href="{{ '/about/locations/Hverland' | relative_url }}">Hverland</a>. With a population of 81,740 as of 2022, it is also the most populous settlement in the country, housing over 60% of the national population. The city is positioned in the southwestern coves of Eyjatjorn island, the largest in the Hverland archipelago. The city and serves as the heart of the country's political, economic, and cultural activities. Covering an area of 124 square kilometers, Hverhöfn boasts a high density of 660 residents per square kilometer. 
 
 Hverhöfn was founded as a city at the end of the 11th century, and has since grown to become the center of commerce and industry in the Norwegian Sea. The city is home to a number of major corporations, including Hverland's largest bank, Hverbank, and the country's largest telecommunications company. The Fjallting, the national parliament of Hverland, is also located in Hverhöfn.
 
