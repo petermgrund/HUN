@@ -11,25 +11,27 @@ permalink: /about/government/hh
 The Hverland Health System (Hverlandic: Heilsukerfi hverlands; HH) is the publicly funded healthcare system serving the residents of Hverland. The HH is responsible for providing a wide range of medical services, including primary care, hospital care, mental health services, and long-term care. The HH is funded through general taxation and is free at the point of use for all residents of Hverland.
 
 # Structure and funding
-The HH is financed entirely through taxes, ensuring that healthcare is available to all residents free of charge at the point of delivery. This funding model underlines the nation's commitment to equitable healthcare access and contributes to the absence of financial barriers to necessary medical services.
-Budget allocation
+The HH is financed through general taxation, with the government being the primary funder of the system. The system is designed to be free at the point of service. This means that residents of Hverland do not have to pay out-of-pocket for most healthcare services, including consultations, treatments, and medications. Elective procedures and cosmetic treatments are exceptions to this rule and may require private payment.
 
-The Hverlandic government allocates a significant portion of its annual budget to sustain and enhance the HH. This investment supports the system's extensive network of services, ranging from general practitioner care to specialist treatments and long-term care facilities.
+## Budget allocation
+The Hverlandic government allocates about 10% of its annual budget to healthcare. This is above the average healthcare expenditure of OECD countries. The significant budget allocation allows the HH to provide a wide range of services and maintain high standards of care. The budget is distributed across various sectors of the healthcare system, including primary care, hospital care, mental health services, and long-term care. 
+
+The aging population and the increasing prevalence of chronic diseases have led to a greater emphasis on long-term care and mental health services in recent years. Projections indicate that the budget allocation for these sectors will continue to increase to meet the growing demand for services. By 2050, it is estimated that the proportion of the budget allocated to long-term care and mental health services will have doubled.
 
 # Primary care
-Primary care is a foundational element of the HH, responsible for initial medical assessments, disease management, and specialist referrals. The system is publicly funded, and the budget allocation for healthcare is considerable in comparison to global metrics. As of 2023, data indicates that Hverland has 3.9 doctors and 16.2 nurses for every 1,000 residents, exceeding the average healthcare workforce ratios for OECD countries. The role of General Practitioners (GPs) is particularly central to the primary care infrastructure, as they often serve as the initial point of contact for healthcare services.
+Primary care is the foundation of the HH, providing initial medical assessments, disease management, and specialist referrals. The primary care system in Hverland is publicly funded and plays a crucial role in promoting preventive care and managing chronic conditions. General Practitioners (GPs) are often the first point of contact for patients seeking healthcare services. They provide comprehensive care, including diagnosing and treating common illnesses, managing chronic conditions, and coordinating care with specialists.
 
-Artificial Intelligence (AI) is increasingly integrated into primary care services in Hverland. AI algorithms are used to analyze extensive sets of data, such as genetic information and lifestyle habits, to assist healthcare professionals in formulating health risk assessments and preventive strategies. Telemedicine platforms, often assisted by AI, offer an option for remote consultations, thereby extending healthcare access to geographically dispersed areas. Additionally, wearable technologies, including smartwatches and specialized monitoring devices, are used to collect real-time data for immediate medical interventions and ongoing patient monitoring.
-
-Community health centers exist throughout Hverland and offer extended hours to facilitate wider access to healthcare services. These centers are often involved in local health and wellness programs and play a role in preventive care.
-
-While the primary care sector has strengths, it also faces challenges, including the distribution of healthcare professionals in rural areas and the management of chronic illnesses. There is ongoing debate about how to address these challenges, particularly in the context of a publicly-funded healthcare system.
+As of 2024, the HH has 3.9 GPs and 15.9 nurses per 1,000 residents, exceeding the average for OECD countries. Unlike other high-income countries, Hverland has a relatively low number of specialists per capita, which has led to a greater emphasis on primary care services and preventive medicine. Very few healthcare providers in Hverland are foreign-born or trained. This is due to strict licensing requirements and a high fluency standard in the Hverlandic language. Rural areas often face challenges in attracting and retaining healthcare professionals, leading to disparities in access to care.
 
 # Hospital care
-Hospital care in Hverland is centralized within a limited network of three public hospitals (sjúkrahús). Despite the small number of facilities, the hospitals offer a wide range of services tailored to the geographic and demographic characteristics of their respective regions.
+Hospital care in Hverland is centralized within a limited network of three public hospitals (sjukrahus). The newest hospital is located in Berghelling, Hverland's second largest city. The facility opened in 2019 to serve the growing population in the region.
+
+
+
 Hverhön National Medical Center
 
-The Hverhön National Medical Center is located in the capital city of Hverhöfn. This is the largest and most comprehensive hospital in the country. The hospital serves as the primary center for specialized medical disciplines, including cardiology, neurology, oncology, and pediatric surgery. It is also the center for advanced diagnostic services like MRI and CT scans. Given its wide range of services and specialists, it attracts patients from across the nation.
+The Hverhön National Medical Center is the largest and most comprehensive hospital in Hverland. It is located in the capital city of Hverhöfn and serves as the primary referral center for complex medical cases and specialized treatments. It is also the center for diagnostic imaging, laboratory services, and medical research. 
+
 
 | Department                   | Beds | FTEs |
 |------------------------------|------|------|
@@ -42,7 +44,7 @@ The Hverhön National Medical Center is located in the capital city of Hverhöfn
 | **Total**                    | 344  | 314  |
 
 
-The hospital boasts a well-resourced radiology department with two MRI machines. Accompanying these are three (3) CT scanners, which are essential for rapid diagnostics. For softer tissue imaging and routine examinations, the hospital is equipped with seven (7) ultrasound machines. The imaging suite also includes six (6) X-ray machines. The hospital's oncology and neurology departments benefit from a (1) PET scanner. Two (2) mammography units are dedicated to breast cancer screening and diagnostics. The cardiology department is facilitated with two (2) echocardiography machines for heart assessments. Additionally, the gastroenterology department operates with four (4) endoscopy towers.
+The hospital operates two (2) MRI machines, three (3) CT scanners, seven (7) ultrasound machines, six (6) X-ray machines, one (1) PET scanner, two (2) mammography units, two (2) fluoroscopy units, and one (1) bone densitometer. 
 
 The Kaldafjall Medical Center is situated in Grindavör, the third-largest city in Hverland and the largest settlement in the northern region. Although not as comprehensive as Hverhön National Medical Center, this hospital focuses on acute care services such as emergency medicine, general surgery, and internal medicine. It has limited specialized services and often refers cases that require more advanced treatments to Hverhön. Given its strategic location, it often acts as a medical gateway for the entire northern region.
 

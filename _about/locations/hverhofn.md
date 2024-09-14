@@ -10,6 +10,18 @@ category: "Locations"
 
 **Hverhöfn** (pronounced [ˈhverˌhœfn]) is the capital city of <a href="{{ '/about/locations/Hverland' | relative_url }}">Hverland</a>. With a population of 81,740 as of 2022, it is also the most populous settlement in the country, housing over 60% of the national population. The city is positioned in the southwestern coves of Eyjatjorn island, the largest in the Hverland archipelago. The city and serves as the heart of the country's political, economic, and cultural activities. Covering an area of 124 square kilometers, Hverhöfn boasts a high density of 660 residents per square kilometer. 
 
+<img src="{{ '/assets/img/hverhofn_skyline.jpg' | relative_url }}" alt="Hverhöfn" class="img-fluid" style="max-width: 50%;">
+<br/><small>Skyline</small>
+
+<img src="{{ '/assets/img/Hverhofn_map.svg' | relative_url }}" alt="Hverhöfn" class="img-fluid" style="max-width: 33%;">
+<br/><small>Map</small>
+
+<img src="{{ '/assets/img/hverhofn-flag.svg' | relative_url }}" alt="Hverhöfn" class="img-fluid">
+<br/><small>Flag</small>
+
+<img src="{{ '/assets/img/Hverhofn_wordmark.svg' | relative_url }}" alt="Hverhöfn" class="img-fluid" style="max-width: 25%;">
+<br/><small>Wordmark</small>
+
 Hverhöfn was founded as a city at the end of the 11th century, and has since grown to become the center of commerce and industry in the Norwegian Sea. The city is home to a number of major corporations, including Hverland's largest bank, Hverbank, and the country's largest telecommunications company. The Fjallting, the national parliament of Hverland, is also located in Hverhöfn.
 
 Geographically, Hverhöfn is located within Flýjabukta, translated into English as the Bay of Refuge ("Flýja" meaning refuge or escape + "bukta" meaning bay). The city is flanked by the Fjallasíða mountain range to the east, the Gronholt forests to the north, and the Víðimerkur plains to the west. The southern coastline of Hverhöfn is called Sjávarströnd. The closest city to Hverhöfn is Ulvarvyk, about 14 miles northwest. A few miles southwest of the city, across Flýjabukta, is the city of Himinfell on the island of Solaskjar. The city of Runavyk is positioned southeast.

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 203 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.03731,0,0,1.03731,-13.9729,-22.1999)">
+        <text x="64px" y="55.374px" style="font-family:'TrebuchetMS-Bold', 'Trebuchet MS', sans-serif;font-weight:700;font-size:34.028px;">Hverhöfn</text>
+    </g>
+    <g transform="matrix(0.43652,0,0,0.43652,25.9748,27.5741)">
+        <text x="64px" y="55.374px" style="font-family:'TrebuchetMS', 'Trebuchet MS', sans-serif;font-size:34.028px;fill:rgb(127,127,127);">Embrace the Elements</text>
+    </g>
+    <g transform="matrix(0.136367,0,0,0.136367,23.8643,27.8709)">
+        <g transform="matrix(1,0,0,1,-175,-204.381)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="350" height="408.761"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.07701,0,0,1.07701,-90.0112,-301.811)">
+                    <g id="レイヤー-1" serif:id="レイヤー 1">
+                        <g id="g3810">
+                            <path id="path3789" d="M266.585,280.23C233.654,305.539 170.294,390.055 159.951,436.969C199.249,395.587 246.051,376.209 321.829,380.441L266.585,280.23Z" style="fill:rgb(33,70,169);fill-rule:nonzero;"/>
+                            <path id="path3791" d="M93.786,535.252C123.203,426.404 247.481,400.188 350.093,432.473L408.549,536.537C318.427,482.073 196.123,466.449 93.786,535.252Z" style="fill:rgb(33,70,169);fill-rule:nonzero;"/>
+                            <path id="path3793" d="M405.578,540.271C305.464,611.076 193.275,601.647 191.076,561.466C190.335,547.919 197.196,531.236 240.247,510.842C230.097,529.835 230.196,543.473 239.463,549.385C268.666,568.018 340.35,552.939 405.578,540.271Z" style="fill:rgb(33,70,169);fill-rule:nonzero;"/>
+                            <path id="path3795" d="M407.192,546.319C359.708,600.085 255.843,660.585 177.359,659.756C106.33,659.005 83.626,624.887 83.575,601.44C83.511,571.382 107.497,530.678 210.364,513.05C91.046,598.192 147.83,633.231 263.044,606.682C319.101,594.191 374.875,571.105 407.192,546.319Z" style="fill:rgb(33,70,169);fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
