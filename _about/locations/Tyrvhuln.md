@@ -8,7 +8,7 @@ permalink: /about/locations/tyrvhuln
 category: "Locations"
 ---
 
-**Tyrvhuln** is the capital city of <a href="{{ '/about/locations/Hverland' | relative_url }}">Hverland</a>. With a population of 81,740 as of 2022, it is also the most populous settlement in the country, housing over 60% of the national population. The city is positioned in the southwestern coves of Eyjateyja island, the largest in the Hverland archipelago. The city and serves as the heart of the country's political, economic, and cultural activities. Covering an area of 124 square kilometers, Tyrvhuln boasts a high density of 660 residents per square kilometer. 
+**Tyrvhuln** is the capital city of <a href="{{ '/about/locations/Hverland' | relative_url }}">Hverland</a>. With a population of 81,740 as of 2022, it is also the most populous settlement in the country, housing over 60% of the national population. The city is positioned in the southwestern coves of Eyjateyja island, the largest in the Hverland archipelago. The city is the heart of the country's political, economic, and cultural activities. Covering an area of 124 square kilometers, Tyrvhuln has a high density of 660 residents per square kilometer. 
 
 <img src="{{ '/assets/img/hverhofn_skyline.jpg' | relative_url }}" alt="Tyrvhuln" class="img-fluid" style="max-width: 50%;">
 <br/><small>Skyline</small>
@@ -19,7 +19,7 @@ category: "Locations"
 <img src="{{ '/assets/img/hverhofn-flag.svg' | relative_url }}" alt="Tyrvhuln" class="img-fluid">
 <br/><small>Flag</small>
 
-Tyrvhuln was founded as a city at the end of the 11th century, and has since grown to become the center of commerce and industry in the Norwegian Sea. The city is home to a number of major corporations, including Hverland's largest bank, Hverbank, and the country's largest telecommunications company. The Fjallting, the national parliament of Hverland, is also located in Tyrvhuln.
+Tyrvhuln was founded as a city at the end of the 11th century, and has since grown to become the center of commerce and industry in the Norwegian Sea. The city is home to a number of major corporations, including Hverland's largest bank, Hverbank, and the country's telecommunications company. The Fjallting, the national parliament of Hverland, is also located in Tyrvhuln.
 
 Geographically, Tyrvhuln is located within Flyjabuktr, translated into English as the Bay of Refuge ("Flyja" meaning refuge or escape + "buktr" meaning bay). The city is flanked by the Fjallasitha mountain range to the east, the Gronhulvt forests to the north, and the Vithimerkr plains to the west. The southern coastline of Tyrvhuln is called Sjavarstsrn. The closest city to Tyrvhuln is Fynd, about 14 miles northwest. A few miles southwest of the city, across Flýjabukta, is the city of Himinfell on the island of Solaskjar. The city of Runavyk is positioned southeast.
 
@@ -29,16 +29,16 @@ Demographically, the city is predominantly comprised of Hverlanders, with a smal
 
 # Neighborhoods
 Tyrvhuln is divided into ten neighborhoods. The city council has the authority to create or dissolve neighborhoods as needed. Neighborhoods historically defined themselves around schools and commercial hubs, and many trace their identities to community organizations formed in the early 20th century. The current neighborhoods are as follows: 
-* Alguryst
-* Eilisth
-* Fryvll 
-* <a href="{{ '/about/locations/heimili-plass' | relative_url }}">Heimili plass</a>
-* Horskehvsk
-* Ny kross
-* Strondin
-* Utflutningur
-* Valvsk
-* Vesturbrsk
+* Alguryst (East Neighborhood)
+* Eirsnyn (Eir's Cape)
+* Galduryst (Galdur's Neighborhood)
+* <a href="{{ '/about/locations/heimili-plass' | relative_url }}">Heimili plass</a> (Home Square)
+* Hveldrunyn (Hveldrun's Neighborhood)
+* Ny kross (New Crossing)
+* Stjornuyst (Stjornu's Neighborhood)
+* Runamar (Runa's Lake) 
+* Vyrshofn (Vyr's Harbor)
+* Vesturbyst (West Neighborhood)
 
 # Smart City
 Tyrvhuln is known for its innovative use of technology in urban planning and governance. The city has implemented a number of smart city initiatives, including a city-wide sensor network that collects data on air quality, traffic, and energy consumption. The city has also developed a mobile app that allows residents to report issues to the city government, such as potholes or broken streetlights. 

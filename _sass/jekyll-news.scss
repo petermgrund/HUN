@@ -355,3 +355,21 @@ button:focus {
 .infobox p {
   font-size: 14px;
 }
+
+/* Define the CSS for the party stripe */
+.party-stripe {
+  display: inline-block;
+  width: 10px;
+  height: 1em;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+/* Example colors for different parties */
+.party-mf {
+  background-color: #5DAB43;
+}
+
+.party-republican {
+  background-color: red;
+}

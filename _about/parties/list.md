@@ -42,7 +42,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#5DAB43; width:23.46%;"></div>
-            </div> Fjallting (19/81)<br>
+            </div> Thjodting (19/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#5DAB43; width:23.56%;"></div>
             </div> Local (41/174)<br>
@@ -59,7 +59,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#E89445; width:16.05%;"></div>
-            </div> Fjallting (13/81)<br>
+            </div> Thjodting (13/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#E89445; width:11.49%;"></div>
             </div> Local (20/174)<br>
@@ -76,7 +76,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#033E68; width:12.35%;"></div>
-            </div> Fjallting (10/81)<br>
+            </div> Thjodting (10/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#033E68; width:10.34%;"></div>
             </div> Local (18/174)<br>
@@ -93,7 +93,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#00b878; width:12.35%;"></div>
-            </div> Fjallting (10/81)<br>
+            </div> Thjodting (10/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#00b878; width:5.75%;"></div>
             </div> Local (10/174)<br>
@@ -110,7 +110,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#377DB4; width:11.11%;"></div>
-            </div> Fjallting (9/81)<br>
+            </div> Thjodting (9/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#377DB4; width:3.45%;"></div>
             </div> Local (6/174)<br>
@@ -127,7 +127,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#F7302B; width:9.88%;"></div>
-            </div> Fjallting (8/81)<br>
+            </div> Thjodting (8/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#F7302B; width:10.34%;"></div>
             </div> Local (18/174)<br>
@@ -144,7 +144,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#FADF6D; width:7.41%;"></div>
-            </div> Fjallting (6/81)<br>
+            </div> Thjodting (6/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#FADF6D; width:2.87%;"></div>
             </div> Local (5/174)<br>
@@ -161,7 +161,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#66CCFF; width:3.70%;"></div>
-            </div> Fjallting (3/81)<br>
+            </div> Thjodting (3/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#66CCFF; width:1.72%;"></div>
             </div> Local (3/174)<br>
@@ -178,7 +178,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#4E359F; width:2.47%;"></div>
-            </div> Fjallting (2/81)<br>
+            </div> Thjodting (2/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#4E359F; width:2.30%;"></div>
             </div> Local (4/174)<br>
@@ -195,7 +195,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#D84193; width:1.23%;"></div>
-            </div> Fjallting (1/81)<br>
+            </div> Thjodting (1/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#D84193; width:2.30%;"></div>
             </div> Local (4/174)<br>
@@ -212,7 +212,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#4864D5; width:0%;"></div>
-            </div> Fjallting (0/81)<br>
+            </div> Thjodting (0/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#4864D5; width:1.15%;"></div>
             </div> Local (2/174)<br>
@@ -229,7 +229,7 @@ category: "Political parties"
         <td>
             <div class="composition-bar">
                 <div style="background-color:#808080; width:0%;"></div>
-            </div> Fjallting (0/81)<br>
+            </div> Thjodting (0/81)<br>
             <div class="composition-bar">
                 <div style="background-color:#808080; width:27.01%;"></div>
             </div> Local (47/174)<br>

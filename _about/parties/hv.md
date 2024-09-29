@@ -1,18 +1,22 @@
 ---
 layout: page
-title: Albmotválgabealde
+title: Hverfolk Party
 page-image: 
   path:  
   cutline: 
 category: "Political parties"
-permalink: /about/albmotvalgabealde
+permalink: /about/hverfolk-party
 ---
 
 <div style="text-align: left;">
   <img src="{{ site.baseurl }}/assets/img/Hverfolkparty.svg" alt="Logo" style="height: 150px;">
 </div>
 
-**Albmotválgabealde**, (Hverlandic: *Hvérfólksparti*, English: *Hvérfolk Party*), is a political party in Hverland that advocates for the rights of the Hvérfolk, the indigenous people of Hverland. The party focuses on protecting the cultural heritage of the Hverfolk and ensuring their political, social, and economic inclusion in Hverlandic society. Albmotválgabealde has one member of the Fjallting, and holds a near majority of seats in the Sámedagi.
+**Albmotválgabealde**, (Hverlandic: *Hvérfólksparti*, English: *Hvérfolk Party*), is a political party in Hverland that advocates for the rights of the Hvérfolk, the indigenous people of Hverland. The party focuses on protecting the cultural heritage of the Hverfolk and ensuring their political, social, and economic inclusion in Hverlandic society. Albmotválgabealde has one member of the Thjodting, and holds a near majority of seats in the Sámedagi.
+
+<p>
+  <span class="party-stripe party-republican"></span> This is a party stripe text for the Democratic Party!
+</p>
 
 ### History
 Albmotválgabealde was established in 1965 by four Hvérfolk activists who sought to create a political party that would represent the interests of the Hvérfolk in the Hverlandic government. The party's founding members were instrumental in the drafting of the Hverlandic Constitution, which recognized the rights of the Hvérfolk as the indigenous people of Hverland. Albmotválgabealde has been a key player in Hverlandic politics ever since, advocating for the protection of Hvérfolk lands, languages, and traditions. 

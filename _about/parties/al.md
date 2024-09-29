@@ -2,19 +2,20 @@
 layout: page
 title: Alternative
 category: "Political parties"
+permalink: /about/alternative
 page-image: 
   path:  
   cutline: 
 ---
 
-**Alternative** (Hverlandic: *Kostgjafi*) is a social liberal and green liberal political party in Hverland, founded in 2015. Headed by leader Kristján Þór Júlíusson, the party currently holds 2 out of 81 seats in the Fjallting and 4 of 174 seats in local municipalities. It does not contest Sámedagi seats.
+**Alternative** (Hverlandic: *Kostgjafi*) is a social liberal and green liberal political party in Hverland, founded in 2015. Headed by leader Kristján Þór Júlíusson, the party currently holds 2 out of 81 seats in the Thjodting and 4 of 174 seats in local municipalities. It does not contest Sámedagi seats.
 
-Alternative is a member of the opposition in the Fjallting, and works closely with the Urban Progressives and The Greens. The party has a strong presence in the city of Hverhöfn, particularly in the neighborhood of Heimli pliáss, which has a large Eastern European migrant population. The party advocates for city services to be provided in multiple languages, and for the establishment of a community liaison committee.
+Alternative is a member of the opposition in the Thjodting, and works closely with the Urban Progressives and The Greens. The party has a strong presence in the city of Hverhöfn, particularly in the neighborhood of Heimli pliáss, which has a large Eastern European migrant population. The party advocates for city services to be provided in multiple languages, and for the establishment of a community liaison committee.
 
 ### History
 Alternative was founded in the aftermath of a series of public debates and town hall meetings that were held in Heimli pliáss, Hverhöfn in 2015. The neighborhood had been experiencing a wave of gentrification and rising living costs, which disproportionately affected the immigrant community. Almost a third of Hverland's immigrants live in Heimli pliáss, and many of them were struggling to make ends meet. The party was formed to address the concerns of this marginalized group and to advocate for their rights.
 
-Alternative's first major success came in the 2022 national election, where it won 2 seats in the Fjallting. At the local level, the party won one seat on the Hverhöfn City Council and four seats in the Heimli pláss neighborhood council. 
+Alternative's first major success came in the 2022 national election, where it won 2 seats in the Thjodting. At the local level, the party won one seat on the Hverhöfn City Council and four seats in the Heimli pláss neighborhood council. 
 
 ### Ideology
 Alternative describes itself as a social liberal and green party that seeks to combine the principles of social justice, environmental sustainability, and economic prosperity. 
