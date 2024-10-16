@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Hverland Health System
+hv: Hverlands heilsukerfi
+abbreviation: HH
 page-image: 
   path:  
   cutline: 
@@ -8,7 +10,7 @@ category: "Government"
 permalink: /about/government/hh
 ---
 
-The Hverland Health System (Hverlandic: Heilsukerfi hverlands; HH) is the publicly funded healthcare system serving the residents of Hverland. The HH is responsible for providing a wide range of medical services, including primary care, hospital care, mental health services, and long-term care. The HH is funded through general taxation and is free at the point of use for all residents of Hverland.
+The Hverland Health System  is the publicly funded healthcare system serving the residents of Hverland. The HH is responsible for providing a wide range of medical services, including primary care, hospital care, mental health services, and long-term care. The HH is funded through general taxation and is free at the point of use for all residents of Hverland.
 
 # Structure and funding
 The HH is financed through general taxation, with the government being the primary funder of the system. The system is designed to be free at the point of service. This means that residents of Hverland do not have to pay out-of-pocket for most healthcare services, including consultations, treatments, and medications. Elective procedures and cosmetic treatments are exceptions to this rule and may require private payment.

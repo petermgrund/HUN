@@ -10,10 +10,6 @@ category: "Locations"
 
 **Hverland** (Hverlandic: *Hverlands*, pronounced [ˈhverland]) is a Nordic archipelago country located in the North Atlantic Ocean. Hverland lies northwest of Scotland, northeast of Greenland, southeast of Iceland, and west of Norway. The Faroe Islands are located to the country's southeast. Hverland's capital and largest city is <a href="{{ '/about/locations/tyrvhuln' | relative_url }}">Tyrvhuln</a>, which is home to over 60% of the country's roughly 139,000 residents. Hverland is one of the most sparsely populated countries in the world.
 
-Hverland er en nordik eygruppe land ligg i nord atlantik ocean. Hverland ligg nordvest af Skotland, nordost af Gronland, sudost af Island, og vest af Noreg. Faeroey ligg til landets sudost. Hverlands hovedstad og storste by er Tyrvhuln, som er hjem til over 60% af landets om lag 139,000 beboere. Hverland er en af de mest tyndt befolkede land i verden.
-
-
-
 Geographically, Hverland is characterized by a mixture of rugged mountainous terrain, plains, and rivers that flow towards the coast. It is positioned in the northern hemisphere and lies slightly to the east of the Greenland Sea, within the vicinity of the Arctic Circle. This gives Hverland a cold, maritime climate influenced by the Gulf Stream.
 
 Hverland's history as a nation begins with the arrival of seafaring Norse explorers, who are considered the first permanent settlers on the island. Over the ensuing centuries, Hverland experienced an influx of Norse settlers from Iceland, Norway, Sweden, and the Faroe Islands.

@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Urban Progressives
+hv: Stadframgang
+abbreviation: SF
 category: "Political parties"
+permalink: /about/party/sf
 ---
 
-<div style="text-align: left;">
-  <img src="{{ site.baseurl }}/assets/img/up.svg" alt="Logo" style="height: 150px;">
-</div>
-
-The **Urban Progressives** (Hverlandic: *Borgarframfaraflokkurinn*) are a left-leaning political party in Hverland. The party is known for its focus on urban issues and representing the issues of the country's growing urbanite population. The Urban Progressives advocate for transformative urban planning that prioritizes public transportation, green spaces, sustainable development, and mixed-use zoning. The party is a promponent of demopolitanism, a political philosophy that pursues cosmopolitian neighborhood character and an opposition to high modernism.
+The **Urban Progressives** (Stadframgang) are a left-leaning, techno-progressive political party in Hverland. The party is known for its focus on urban issues and representing the issues of the country's growing urbanite population. The Urban Progressives advocate for transformative urban planning that prioritizes public transportation, green spaces, sustainable development, and mixed-use zoning. The party is a promponent of demopolitanism, a political philosophy that pursues cosmopolitian neighborhood character and an opposition to high modernism. The party's platform also includes support for digital rights, including citizenship for artificial intelligences. The party has not taken a stance on transhumanism, but is considered apart of the futurist bloc, having criticized the former government's bioconservative and Teknoveid policies.
 
 ## History
 The Urban Progressives were founded in 2010 by a group of 25 activists, academics, and artists from the University of Hverland who were dissatisfied with the lack of representation for urban issues in the Thjodting, particularly in the face of the rural-focused policies of the Centre Party. Despite over 60% of the population living in Hverhöfn, the group felt that none of the major parties adequately addressed the unique challenges facing urban areas. 

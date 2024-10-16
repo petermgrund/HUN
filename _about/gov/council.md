@@ -14,16 +14,20 @@ The **Tyrvhuln City Council** (Hverlandic: *Byrath-tyrvhulnar*) is the legislati
 
 The City Council consists of 31 elected members who serve four-year terms. Members are elected to a four-year term in parallel voting, with 22 members elected in single-seat constituencies and 9 members elected by proportional representation. The voting in the elections is open to all citizens of Tyrvhuln who are at least 18 years old. 
 
-The 2023 municipal election determined the current composition as follows:
-
-* Liberals: 8 seats
-* The Greens: 6 seats
-* Social Democratic Party: 5 seats
-* Visionary Party: 4 seats
-* Centre Party: 3 seats
-* Urban Progressives: 2 seats
-* Conservative Nationals: 2 seats
-* Alternative: 1 seat
+The 2022 municipal election determined the current composition:
+* Government (18)
+    * <span class="party-stripe party-fm"></span><a href="{{ '/about/party/fm' | relative_url }}">Liberals</a> ( )
+    * <span class="party-stripe party-sf"></span><a href="{{ '/about/party/sf' | relative_url }}">Urban Progressives</a> ( )
+    * <span class="party-stripe party-gfu"></span><a href="{{ '/about/party/gfu' | relative_url }}">Greens and Futurists</a> ( )
+    * <span class="party-stripe party-sdf"></span><a href="{{ '/about/party/sdf' | relative_url }}">Social Democratic Party</a> ( )
+    * <span class="party-stripe party-lv"></span><a href="{{ '/about/party/fh' | relative_url }}">Community of the People</a> (2)
+* Other parties (40)
+  * <a href="{{ '/about/party/tai' | relative_url }}">Teknoveid Alliance</a> (6)
+    * <span class="party-stripe party-tb"></span><a href="{{ '/about/party/tb' | relative_url }}">A Nation to Preserve</a> (3)
+    * <span class="party-stripe party-ns"></span><a href="{{ '/about/party/ns' | relative_url }}">Natural Balance</a> (2)
+    * <span class="party-stripe party-gf"></span><a href="{{ '/about/party/gf' | relative_url }}">Farmers and Fishers</a> (1)
+  * <span class="party-stripe party-sv"></span><a href="{{ '/about/party/ai' | relative_url }}">Spirit of Innovation</a> (5)
+  * <span class="party-stripe party-uv"></span><a href="{{ '/about/party/uv' | relative_url }}">Independent Compass</a> (2)
 
 # Mayor
 The Mayor is elected separately from the City Council and serves as the head of the executive branch of the city government. The Mayor is responsible for implementing the policies and decisions of the City Council, overseeing city departments, and representing the city in external matters. The Mayor often attends City Council meetings but does not have a vote unless there is a tie.

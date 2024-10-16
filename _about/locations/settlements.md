@@ -10,6 +10,7 @@ category: "Locations"
 
 <style>
 table {
+  text-align: left;
   border-collapse: collapse;
   width: 100%;
 }
@@ -40,10 +41,10 @@ th {
 | 9    | Hulntopp        | Eyjateyja   | Town    | 1,105  | 0.82  |
 | 10   | Thrymvyk        | Flenteyja  | Town    | 1,091  | 0.81  |
 | 11   | Borganes        | Kaldafjall  | Town    | 1,055  | 0.79  |
-| 12   | Stykkisvík      | Háafjall    | Town    | 975    | 0.73  |
-| 13   | Olafsfoss       | Eyjatjorn   | Town    | 853    | 0.64  |
+| 12   | X      | Háafjall    | Town    | 975    | 0.73  |
+| 13   | X       | Eyjatjorn   | Town    | 853    | 0.64  |
 | 14   | Neskauphavn     | Snæfjall    | Town    | 743    | 0.55  |
 | 15   | Hvolsvaag       | Kaldafjall  | Village | 421    | 0.31  |
-| 16   | Seyðisfjarður   | Háafjall    | Village | 300    | 0.22  |
-| 17   | Höfnarborg      | Snæfjall    | Village | 123    | 0.09  |
-| 18   | Siglufirth      | Eyjatjorn   | Village | 65     | 0.05  |
+| 16   | X   | Háafjall    | Village | 300    | 0.22  |
+| 17   | X      | Snæfjall    | Village | 123    | 0.09  |
+| 18   | X      | Eyjatjorn   | Village | 65     | 0.05  |

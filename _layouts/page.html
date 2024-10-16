@@ -21,10 +21,18 @@ layout: base
   </style>
 
 {%- if page.title -%}
-    <h1 class="headline"><hr>{{page.title}}</h1>
+    <h1 class="headline"><hr>{{ page.title }}</h1>
 {%- endif -%}
-{%- if page.subhed -%}
-    <p class="subhed">{{ page.subhed }}</p>
+{%- if page.hv -%}
+    <h3 class="hv">
+        {{ page.hv }}
+        {%- if page.abbreviation -%}
+            <small> ({{ page.abbreviation }})</small>
+        {%- endif -%}
+    </h3>
+{%- endif -%}
+{%- if page.subhead -%}
+    <p class="subhed">{{ page.subhead }}</p>
 {%- endif -%}
 
 {%- if page.page-image.path -%}
@@ -39,7 +47,7 @@ layout: base
 {%- endif -%}
 
 {%- if page.category -%}
-    <h4 class="subhed"><hr>About → {{page.category}}</h4>
+<h4 class="bcs"><hr>About → {{page.category}}</h4>
 {%- endif -%}
 
 <article class="article-content">

@@ -158,8 +158,33 @@ hr {
   margin-right: 20%;
 }
 
+.hv {
+  text-align: left;
+  color: #000000;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-weight: light;
+}
+
+.abbr {
+  text-align: left;
+  color: #272727;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-weight: light;
+}
+
 .subhed {
   text-align: left;
+  color: #000000;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-weight: light;
+}
+
+.bcs {
+  text-align: left;
+  font-weight: normal;
   color: #000000;
   margin-left: 20%;
   margin-right: 20%;
@@ -365,11 +390,63 @@ button:focus {
   vertical-align: middle;
 }
 
-/* Example colors for different parties */
-.party-mf {
+/* Natural Balance */
+.party-ns {
   background-color: #5DAB43;
 }
 
-.party-republican {
-  background-color: red;
+/* Liberals */
+.party-fm {
+  background-color: #E89445;
+}
+
+/* A Nation to Preserve */
+.party-tb {
+  background-color: #033E68;
+}
+
+/* Greens and Futurists */
+.party-gfu {
+  background-color: #00b878;
+}
+
+/* Farmers and Fishers */
+.party-gf {
+  background-color: #377DB4;
+}
+
+// Community of the People	
+.party-lv {
+  background-color: #A1359B;
+}
+
+// Independent Compass 	
+.party-uv {
+  background-color: #48D1CC;
+}
+
+// United Christians 	
+.party-ke {
+  background-color: #000000;
+}
+
+
+// Social Democratic Party
+.party-sdf {
+  background-color: #C82518;
+}
+
+// Urban Progressives
+.party-sf {
+  background-color: #66CCFF;
+}
+
+// Spirit of Innovation
+.party-sv {
+  background-color: #FADF6D;
+}
+
+// Independents
+.party-af {
+  background-color: #DBDBDB;
 }

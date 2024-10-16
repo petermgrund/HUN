@@ -4,6 +4,40 @@ title: List of political parties
 category: "Political parties"
 ---
 
+<style>
+.composition-bar {
+    display: flex;
+    width: 100%;
+    background-color: #e0e0e0;
+}
+
+.composition-bar div {
+    height: 20px;
+}
+
+table {
+  text-align: left;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 4px;
+font-size: 0.8em; /* Make the text 80% of the normal size */
+
+}
+
+th {
+  background-color: #f2f2f2;
+}
+</style>
+
+| Party | Translated            | Ideology      | Position   | Designation   | Seats     |
+|------|-----------------|-------------|---------|--------|-------|
+| <a href="{{ '/about/party/fm' | relative_url }}">Liberals</a>    | Frimenn (FM) | Social liberalism  | x | 19 |
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,9 +80,7 @@ category: "Political parties"
             <div class="composition-bar">
                 <div style="background-color:#5DAB43; width:23.56%;"></div>
             </div> Local (41/174)<br>
-            <div class="composition-bar">
-                <div style="background-color:#5DAB43; width:7.69%;"></div>
-            </div> Sámedagi (1/13)
+            <div class="composition-bar"><div style="background-color:#5DAB43; width:7.69%;"></div></div> Sámedagi (1/13)
         </td>
     </tr>
     <tr>
