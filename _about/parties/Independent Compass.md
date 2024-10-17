@@ -11,3 +11,11 @@ permalink: /about/party/uv
 ---
 
 **Independent Compass** (Utanveid) is a political party in Hverland.
+
+### History
+
+### Ideology
+
+### Platform
+
+### Leadership

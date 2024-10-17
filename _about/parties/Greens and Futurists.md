@@ -9,3 +9,10 @@ permalink: /about/party/gfu
 
 **Greens and Futurists** (Grasfuturar) is a political party in Hverland.
 
+### History
+
+### Ideology
+
+### Platform
+
+### Leadership

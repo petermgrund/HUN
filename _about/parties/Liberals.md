@@ -8,3 +8,11 @@ permalink: /about/party/fm
 ---
 
 The **Liberals** (Frimenn) is a political party in Hverland. 
+
+### History
+
+### Ideology
+
+### Platform
+
+### Leadership

@@ -9,3 +9,10 @@ permalink: /about/party/sdf
 
 The **Social Democratic Party** (Samhjelpdemotarfelg) is a political party in Hverland.
 
+### History
+
+### Ideology
+
+### Platform
+
+### Leadership

@@ -11,3 +11,11 @@ page-image:
 ---
 
 **Community of the People** (Folkahjamuni) is a political party in Hverland.
+
+### History
+
+### Ideology
+
+### Platform
+
+### Leadership

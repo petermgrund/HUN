@@ -8,3 +8,11 @@ permalink: /about/party/ke
 ---
 
 The **United Christians** (Kristneenhet) is a political party in Hverland.
+
+### History
+
+### Ideology
+
+### Platform
+
+### Leadership
