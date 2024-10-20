@@ -28,23 +28,10 @@ th {
 </style>
 
 
-| Rank | Name            | Island      | Class   | Pop.   | %     |
+| Rank | Name            | Region      | Type   | Pop.   | %     |
 |------|-----------------|-------------|---------|--------|-------|
-| 1    | <a href="{{ '/about/locations/tyrvhuln' | relative_url }}">Tyrvhuln</a> | Eyjateyja   | Capital | 81,740 | 60.98 |
-| 2    | <a href="{{ '/about/locations/styrvdal' | relative_url }}">Styrvdal</a> | Hulneyja    | City    | 13,452 | 10.03 |
-| 3    | Vaskdryft       | Sylkeyja    | City    | 10,971 | 8.18  |
-| 4    | Fynd            | Eyjateyja   | City    | 7,582  | 5.66  |
-| 5    | Styrvkryth      | Hulneyja    | City    | 5,410  | 4.04  |
-| 6    | Drevrnyn        | Flenteyja   | City    | 3,768  | 2.81  |
-| 7    | Glrheym         | Hulneyja    | Town    | 2,501  | 1.87  |
-| 8    | Draskvyk        | Eyjateyja   | Town    | 1,897  | 1.42  |
-| 9    | Hulntopp        | Eyjateyja   | Town    | 1,105  | 0.82  |
-| 10   | Thrymvyk        | Flenteyja  | Town    | 1,091  | 0.81  |
-| 11   | Borganes        | Kaldafjall  | Town    | 1,055  | 0.79  |
-| 12   | X      | Háafjall    | Town    | 975    | 0.73  |
-| 13   | X       | Eyjatjorn   | Town    | 853    | 0.64  |
-| 14   | Neskauphavn     | Snæfjall    | Town    | 743    | 0.55  |
-| 15   | Hvolsvaag       | Kaldafjall  | Village | 421    | 0.31  |
-| 16   | X   | Háafjall    | Village | 300    | 0.22  |
-| 17   | X      | Snæfjall    | Village | 123    | 0.09  |
-| 18   | X      | Eyjatjorn   | Village | 65     | 0.05  |
+| 1    | [Tyrvhuln](/HUN/about/locations/tyrvhuln) | Capital   | City | 103,523 |  |
+| 2    | [Krondfryd](/HUN/about/locations/krondfryd)  | East    | City    | 25,160 | |
+| 3    | [Fynd](/HUN/about/locations/fynd)  | Capital    | City    | 15,582 | |
+| 4    | [Kravhulndryn](/HUN/about/locations/kravhulndryn)  | East    | City    | 10,025 | |
+| 5    | [Yvkr](/HUN/about/locations/yvkr)  | East    | City    | 9,796 | |

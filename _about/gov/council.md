@@ -16,12 +16,12 @@ The City Council consists of 31 elected members who serve four-year terms. Membe
 
 The 2022 municipal election determined the current composition:
 * Government (18)
-    * <span class="party-stripe party-fm"></span><a href="{{ '/about/party/fm' | relative_url }}">Liberals</a> ( )
-    * <span class="party-stripe party-sf"></span><a href="{{ '/about/party/sf' | relative_url }}">Urban Progressives</a> ( )
-    * <span class="party-stripe party-gfu"></span><a href="{{ '/about/party/gfu' | relative_url }}">Greens and Futurists</a> ( )
-    * <span class="party-stripe party-sdf"></span><a href="{{ '/about/party/sdf' | relative_url }}">Social Democratic Party</a> ( )
+    * <span class="party-stripe party-fm"></span><a href="{{ '/about/party/fm' | relative_url }}">Liberals</a> (8)
+    * <span class="party-stripe party-gfu"></span><a href="{{ '/about/party/gfu' | relative_url }}">Greens and Futurists</a> (4)
+    * <span class="party-stripe party-sf"></span><a href="{{ '/about/party/sf' | relative_url }}">Urban Progressives</a> (2)
+    * <span class="party-stripe party-sdf"></span><a href="{{ '/about/party/sdf' | relative_url }}">Social Democratic Party</a> (2)
     * <span class="party-stripe party-lv"></span><a href="{{ '/about/party/fh' | relative_url }}">Community of the People</a> (2)
-* Other parties (40)
+* Other parties (13)
   * <a href="{{ '/about/party/tai' | relative_url }}">Teknoveid Alliance</a> (6)
     * <span class="party-stripe party-tb"></span><a href="{{ '/about/party/tb' | relative_url }}">A Nation to Preserve</a> (3)
     * <span class="party-stripe party-ns"></span><a href="{{ '/about/party/ns' | relative_url }}">Natural Balance</a> (2)
