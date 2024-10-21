@@ -30,8 +30,8 @@ th {
 
 | Rank | Name            | Region      | Type   | Pop.   | %     |
 |------|-----------------|-------------|---------|--------|-------|
-| 1    | [Tyrvhuln](/HUN/about/locations/tyrvhuln) | Capital   | City | 103,523 |  |
-| 2    | [Krondfryd](/HUN/about/locations/krondfryd)  | East    | City    | 25,160 | |
+| 1    | [Tyrvhuln](/HUN/about/locations/tyrvhuln) | [Capital](/HUN/about/locations/capital)   | City | 103,523 |  |
+| 2    | [Krondfryd](/HUN/about/locations/krondfryd)  | [East](/HUN/about/locations/east)    | City    | 25,160 | |
 | 3    | [Fynd](/HUN/about/locations/fynd)  | Capital    | City    | 15,582 | |
 | 4    | [Kravhulndryn](/HUN/about/locations/kravhulndryn)  | East    | City    | 10,025 | |
 | 5    | [Yvkr](/HUN/about/locations/yvkr)  | East    | City    | 9,796 | |

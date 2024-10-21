@@ -20,9 +20,11 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 ## C
 
 ## D
+- Dahlia Snyggdotra (<a href="{{ '/about/party/gfu' | relative_url }}">GFU</a>): leader of the Greens and Futurists (2024-)
 
 ## E
 - Eir the Elder (c. 900): a founding elder of Tyrvhuln, namesake of the Eir neighborhood
+- Eirikur Hjaltsundr: Bishop of the Church of Hverland (2006-)
 - <a href="{{ '/health/2024/03/11/psych/' | relative_url }}">Einar Snorrasundr</a>: former child psychiatrist at LAS
 - <a href="{{ '/about/people/eyrune-marisioradotra' | relative_url }}">Eyrune Marisioradotra</a> (<a href="{{ '/about/party/ns' | relative_url }}">NS</a>): leader of Natural Balance (2023-)
 
@@ -30,6 +32,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 
 ## G
 - Galdur the Seer (c. 900): a founding elder of Tyrvhuln, namesake of the Galdur neighborhood
+- Gorm Grasksundr (<a href="{{ '/about/party/ke' | relative_url }}">KE</a>): leader of United Christians (2020-)
 
 ## H
 - Hjorleifur Hjorleifursundr (<a href="{{ '/about/party/ai' | relative_url }}">AI</a>): leader of Spirit of Innovation (2019-)
@@ -52,6 +55,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 ## O
 
 ## P
+
 
 ## Q
 

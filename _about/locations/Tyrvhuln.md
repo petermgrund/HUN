@@ -8,9 +8,9 @@ permalink: /about/locations/tyrvhuln
 category: "Locations"
 ---
 
-**Tyrvhuln** is the capital city of <a href="{{ '/about/locations/Hverland' | relative_url }}">Hverland</a>. With a population of 103,523 as of 2024, it is also the most populous settlement in the country, housing about 36% of the national population. The city is positioned in the southwestern coves of Eyjateyja island, the central island in the Hverland archipelago. The city covers an area of 84 square miles (218 square kilometers) and has a population density of 1,230 residents per square mile (475 residents per square kilometer). The city is 24 feet (7.3 meters) above sea level at its median elevation, and its average temperature is 34°F (1°C). 
+**Tyrvhuln** is the capital city of <a href="{{ '/about/locations/Hverland' | relative_url }}">Hverland</a>. With a population of 103,523 as of 2024, it is also the most populous settlement in the country, housing about a third of the national population. The city is positioned in the southwestern coves of Eyjateyja island, the central island in the Hverland archipelago. The city covers an area of 84 square miles (218 square kilometers) and has a population density of 1,230 residents per square mile (475 residents per square kilometer). The city is 24 feet (7.3 meters) above sea level at its median elevation, and its average temperature is 34°F (1°C). 
 
-Tyrvhuln is located in the Capital Region, which is the most populous region in Hverland. It borders the municipalities of Vyykfryd to the northeast, Kvlhuln to the north, Skrondfryd to the west, and Svarthvynd to the south. The A1 motorway runs through the city, connecting it to other major cities in the region. 
+Tyrvhuln is located in the [Capital Region](/HUN/about/locations/capital), which is the most populous region in Hverland. It borders the municipalities of Vyykfryd to the northeast, Kvlhuln to the north, Skrondfryd to the west, and Svarthvynd to the south. The A1 motorway runs through the city, connecting it to other major cities in the region. 
 
 
 <img src="{{ '/assets/img/hverhofn_skyline.jpg' | relative_url }}" alt="Tyrvhuln" class="img-fluid" style="max-width: 50%;">
