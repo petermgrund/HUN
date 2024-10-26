@@ -1,29 +1,29 @@
 ---
 layout: page
 title: Hverland Health System
-hv: Hverlands heilsukerfi
-abbreviation: HH
+hv: Hverlandip peqqinnissaqarfia
+abbreviation: HP
 page-image: 
   path:  
   cutline: 
 category: "Government"
-permalink: /about/government/hh
+permalink: /about/government/hp
 ---
 
-The Hverland Health System  is the publicly funded healthcare system serving the residents of Hverland. The HH is responsible for providing a wide range of medical services, including primary care, hospital care, mental health services, and long-term care. The HH is funded through general taxation and is free at the point of use for all residents of Hverland.
+The Hverland Health System  is the publicly funded healthcare system serving the residents of Hverland. The HP is responsible for providing a wide range of medical services, including primary care, hospital care, mental health services, and long-term care. The HP is funded through general taxation and is free at the point of use for all residents of Hverland.
 
 # Structure and funding
-The HH is financed through general taxation, with the government being the primary funder of the system. The system is designed to be free at the point of service. This means that residents of Hverland do not have to pay out-of-pocket for most healthcare services, including consultations, treatments, and medications. Elective procedures and cosmetic treatments are exceptions to this rule and may require private payment.
+The HP is financed through general taxation, with the government being the primary funder of the system. The system is designed to be free at the point of service. This means that residents of Hverland do not have to pay out-of-pocket for most healthcare services, including consultations, treatments, and medications. Elective procedures and cosmetic treatments are exceptions to this rule and may require private payment.
 
 ## Budget allocation
-The Hverlandic government allocates about 10% of its annual budget to healthcare. This is above the average healthcare expenditure of OECD countries. The significant budget allocation allows the HH to provide a wide range of services and maintain high standards of care. The budget is distributed across various sectors of the healthcare system, including primary care, hospital care, mental health services, and long-term care. 
+The Hverlandic government allocates about 10% of its annual budget to healthcare. This is above the average healthcare expenditure of OECD countries. The significant budget allocation allows the HP to provide a wide range of services and maintain high standards of care. The budget is distributed across various sectors of the healthcare system, including primary care, hospital care, mental health services, and long-term care. 
 
 The aging population and the increasing prevalence of chronic diseases have led to a greater emphasis on long-term care and mental health services in recent years. Projections indicate that the budget allocation for these sectors will continue to increase to meet the growing demand for services. By 2050, it is estimated that the proportion of the budget allocated to long-term care and mental health services will have doubled.
 
 # Primary care
-Primary care is the foundation of the HH, providing initial medical assessments, disease management, and specialist referrals. The primary care system in Hverland is publicly funded and plays a crucial role in promoting preventive care and managing chronic conditions. General Practitioners (GPs) are often the first point of contact for patients seeking healthcare services. They provide comprehensive care, including diagnosing and treating common illnesses, managing chronic conditions, and coordinating care with specialists.
+Primary care is the foundation of the HP, providing initial medical assessments, disease management, and specialist referrals. The primary care system in Hverland is publicly funded and plays a crucial role in promoting preventive care and managing chronic conditions. General Practitioners (GPs) are often the first point of contact for patients seeking healthcare services. They provide comprehensive care, including diagnosing and treating common illnesses, managing chronic conditions, and coordinating care with specialists.
 
-As of 2024, the HH has 3.9 GPs and 15.9 nurses per 1,000 residents, exceeding the average for OECD countries. Unlike other high-income countries, Hverland has a relatively low number of specialists per capita, which has led to a greater emphasis on primary care services and preventive medicine. Very few healthcare providers in Hverland are foreign-born or trained. This is due to strict licensing requirements and a high fluency standard in the Hverlandic language. Rural areas often face challenges in attracting and retaining healthcare professionals, leading to disparities in access to care.
+As of 2024, the HP has 3.9 GPs and 15.9 nurses per 1,000 residents, exceeding the average for OECD countries. Unlike other high-income countries, Hverland has a relatively low number of specialists per capita, which has led to a greater emphasis on primary care services and preventive medicine. Very few healthcare providers in Hverland are foreign-born or trained. This is due to strict licensing requirements and a high fluency standard in the Hverlandic language. Rural areas often face challenges in attracting and retaining healthcare professionals, leading to disparities in access to care.
 
 # Hospital care
 Hospital care in Hverland is centralized within a limited network of three public hospitals (sjukrahus). The newest hospital is located in Berghelling, Hverland's second largest city. The facility opened in 2019 to serve the growing population in the region.
@@ -56,7 +56,7 @@ Due to the geographical limitations, especially concerning Berghelling Island Ho
 
 # Mental health services
 
-Mental health support (geðheilsa) is another integral component of the HH. As with other healthcare services in the country, mental health support is publicly funded and provided free at the point of service. Over the last two decades, the system has seen an eight-fold increase in budget allocation dedicated to mental health services. This expansion comes in the wake of an alarming surge in psychiatric illnesses among young people in Hverland, leading to an urgent restructuring and innovation within the sector.
+Mental health support (geðheilsa) is another integral component of the HP. As with other healthcare services in the country, mental health support is publicly funded and provided free at the point of service. Over the last two decades, the system has seen an eight-fold increase in budget allocation dedicated to mental health services. This expansion comes in the wake of an alarming surge in psychiatric illnesses among young people in Hverland, leading to an urgent restructuring and innovation within the sector.
 
 Recent statistics indicate a significant uptick in the rates of psychiatric illness among young people. The situation has led to nationwide initiatives aimed at enhancing early detection, intervention, and ongoing treatment options for this demographic. The rising incidence rates have also ignited public discourse around the need for more specialized services and therapies for young people.
 

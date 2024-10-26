@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tyrvhuln City Council
+hv: Tyrvhulnip illoqarfiup siunnersuisooqatigiit
 page-image: 
   path:  
   cutline: 
@@ -8,7 +9,7 @@ permalink: /about/government/tyrvhuln-city-council
 category: "Government"
 ---
 
-The **Tyrvhuln City Council** (Hverlandic: *Byrath-tyrvhulnar*) is the legislative body of Tyrvhuln, the capital and largest city of Hverland. The council is responsible for passing laws, ordinances, and resolutions that govern the city. It is composed of 31 members who are elected by the residents of Tyrvhuln to serve four-year terms. The council meets regularly to discuss and vote on various issues affecting the city, including budget allocations, zoning regulations, and public services.
+The **Tyrvhuln City Council** (Tyrvhulnip illoqarfiup siunnersuisooqatigiit) is the legislative body of Tyrvhuln, the capital and largest city of Hverland. The council is responsible for passing laws, ordinances, and resolutions that govern the city. It is composed of 31 members who are elected by the residents of Tyrvhuln to serve four-year terms. The council meets regularly to discuss and vote on various issues affecting the city, including budget allocations, zoning regulations, and public services.
 
 # Composition
 

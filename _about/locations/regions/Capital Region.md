@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Capital Region
+hv: Naalagaaffiup qitiusumik immikkoortortaa
 page-image: 
   path:  
   cutline: 
