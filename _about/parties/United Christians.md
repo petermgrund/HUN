@@ -1,13 +1,14 @@
 ---
 layout: page
 title: United Christians
-hv: Kristneenhet
-abbreviation: KE
+hv: Ataatsimoortut kristumiut
+abbreviation: AK
+color: party-ak
 category: "Political parties"
-permalink: /about/party/ke
+permalink: /about/party/ak
 ---
 
-The **United Christians** (Kristneenhet) is a political party in Hverland.
+The **United Christians** (Ataatsimoortut kristumiut) is a political party in Hverland.
 
 ### History
 

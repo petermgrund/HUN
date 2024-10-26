@@ -8,7 +8,7 @@ permalink: /about/locations/hverland
 category: "Locations"
 ---
 
-**Hverland** (Hverlandic: *Hverlands*, pronounced [ˈhverland]) is a Nordic archipelago country located in the North Atlantic Ocean. Hverland lies northwest of Scotland, northeast of Greenland, southeast of Iceland, and west of Norway. The Faroe Islands are located to the country's southeast. Hverland's capital and largest city is <a href="{{ '/about/locations/tyrvhuln' | relative_url }}">Tyrvhuln</a>, which is home to over 60% of the country's roughly 139,000 residents. Hverland is one of the most sparsely populated countries in the world.
+**Hverland** (Hverlandic: *Hverlands*, pronounced [ˈhverland]) is a Nordic archipelago country located in the North Atlantic Ocean. Hverland lies northwest of Scotland, northeast of Greenland, southeast of Iceland, and west of Norway. The Faroe Islands are located to the country's southeast. Hverland's capital and largest city is [Tyrvhuln](/HUN/about/locations/tyrvhuln), which is home to over a third of the country's roughly X residents. Hverland is one of the most sparsely populated countries in the world.
 
 Geographically, Hverland is characterized by a mixture of rugged mountainous terrain, plains, and rivers that flow towards the coast. It is positioned in the northern hemisphere and lies slightly to the east of the Greenland Sea, within the vicinity of the Arctic Circle. This gives Hverland a cold, maritime climate influenced by the Gulf Stream.
 
@@ -18,15 +18,18 @@ Since the turn of the 21st century, Hverland has transitioned into one of the mo
 
 The quality of life in Hverland ranks highly in international comparisons, owing to its well funded public services, education, protection of civil liberties, government transparency, and economic freedom. Its social welfare system provides universal healthcare and tertiary education for all its citizens.
 
+# Etymology
+The name "Hverland" originates from an Old Norse term, *Hverland*, which roughly translates to "Land of the Hot Springs." The name is derived from the numerous geothermal hot springs that dot the archipelago, a result of the country's volcanic activity. The first Norse settlers who arrived in the archipelago were struck by the abundance of these natural hot springs, which provided warmth, comfort, and sustenance in the harsh Arctic climate. The name was first recorded in the saga "Hverlandssaga," which recounts the legendary exploits of the early Norse settlers and their interactions with the indigenous Jallaq people.
+
 # History
 
-## Early inhabitants (before 800 CE)
+### Early inhabitants (before 800 CE)
 
-Before the arrival of Norse explorers, the archipelago now known as Hverland was home to a small community of about 200 Inuit called the Jallaq. The Jallaq people, ancestors of the Hverfolk, were part of the broader Inuit culture and navigated the treacherous waters of the North Atlantic Ocean, reaching the archipelago as part of their expansive exploration. They likely originated from Greenland.
+Before the arrival of Norse explorers, the archipelago now known as Hverland was home to a small community of about 200 Inuit called the Jallaq. The Jallaq people were part of the broader Inuit culture and they had navigated the treacherous waters of the North Atlantic Ocean, reaching the archipelago as part of their expansive exploration. They likely originated from Greenland based on fossil records.
 
-The Jallaq adapted to the harsh climate and rugged landscape of the islands, establishing a sustainable way of life centered around fishing, seal hunting, and the utilization of local resources. Archaeological findings, such as tools, remnants of semi-subterranean dwellings, and ancient kayaks, provide evidence of the Jallaq presence in the archipelago. These artifacts, dating back to around the 10th century CE, suggest that they established a few camps along the west coast, particularly in sheltered bays and fjords.
+The Jallaq adapted to the harsh climate and established a sustainable way of life centered around fishing, seal hunting, and the utilization of local resources. Archaeological findings, such as tools, remnants of semi-subterranean dwellings, and ancient kayaks, date back to around the 10th century CE, suggesting that they established a few camps along the western and eastern coasts. The largest known settlement is located just a mile north of modern-day Yvkr in southern Eyjateyja. The area, known as Jallaqhuln, is today a protected site. 
 
-While the Jallaq's presence in the archipelago was characterized by a nomadic lifestyle, their seasonal migrations across the Arctic regions suggest they did not form permanent settlements in Hverland. Instead, the archipelago served as a seasonal base for their hunting and gathering activities.
+While the Jallaq's presence in the archipelago was characterized by a nomadic lifestyle, their seasonal migrations across the Arctic regions suggest they did not form permanent settlements in Hverland. Instead, it is believed they used the archipelago as a stopover point during their travels.
 
 ## Myth and settlement (800-1100 CE)
 

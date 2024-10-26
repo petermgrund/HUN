@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Greens and Futurists
-hv: Grasfuturar
-abbreviation: GFU
+hv: Kuannersuit ok siunissartut
+abbreviation: KS
+color: party-ks
 category: "Political parties"
-permalink: /about/party/gfu
+permalink: /about/party/ks
 ---
 
-**Greens and Futurists** (Grasfuturar) is a political party in Hverland.
+**Greens and Futurists** (Kuannersuit ok siunissartut) is a political party in Hverland.
 
 ### History
 

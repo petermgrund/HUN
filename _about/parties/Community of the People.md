@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Community of the People
-hv: Folkahjamuni
-abbreviation: FH
+hv: Inus katimanadin
+abbreviation: IK
+color: party-ik
 category: "Political parties"
-permalink: /about/party/fh
+permalink: /about/party/ik
 page-image: 
   path:  
   cutline: 
 ---
 
-**Community of the People** (Folkahjamuni) is a political party in Hverland.
+**Community of the People** (Inus katimanadin) is a political party in Hverland.
 
 ### History
 

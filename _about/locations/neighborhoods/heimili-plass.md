@@ -8,7 +8,7 @@ category: "Locations"
 permalink: /about/locations/heimili-plass
 ---
 
-Heimili plass is a residential neighborhood in Tyrvhuln, located west-central of the city. The population was 7,315 in 2022.  
+**Heimili plass** is a residential neighborhood in Tyrvhuln, located west-central of the city. The population was 7,315 in 2022.  
 
 # History
 

@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Liberals
-hv: Frimenn
-abbreviation: FM
+hv: Asingasut
+color: party-as
+abbreviation: AS 
 category: "Political parties"
-permalink: /about/party/fm
+permalink: /about/party/as
 ---
 
-The **Liberals** (Frimenn) is a political party in Hverland. 
+The **Liberals** (Asingasut) is a political party in Hverland. 
 
 ### History
 

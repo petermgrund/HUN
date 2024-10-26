@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Independent Compass
-hv: Utanveid
-abbreviation: UV
+hv: Namminersortut qaammataasinadin
+abbreviation: NQ
+color: party-nq
 page-image: 
   path:  
   cutline: 
 category: "Political parties"
-permalink: /about/party/uv
+permalink: /about/party/nq
 ---
 
-**Independent Compass** (Utanveid) is a political party in Hverland.
+**Independent Compass** (Namminersortut qaammataasinadin) is a political party in Hverland.
 
 ### History
 

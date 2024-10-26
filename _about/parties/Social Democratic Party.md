@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Social Democratic Party
-hv: Samhjelpdemotarfelg
-abbreviation: SDF
+hv: Inuiaqatigiinni demokratersamnadin
+abbreviation: IDS
+color: party-ids
 category: "Political parties"
-permalink: /about/party/sdf
+permalink: /about/party/ids
 ---
 
-The **Social Democratic Party** (Samhjelpdemotarfelg) is a political party in Hverland.
+The **Social Democratic Party** (Inuiaqatigiinni demokratersamnadin) is a political party in Hverland.
 
 ### History
 

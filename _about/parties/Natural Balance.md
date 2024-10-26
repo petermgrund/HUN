@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Natural Balance
-hv: Natursamhod
-abbreviation: NS
+hv: Pinngortitap naligiissusia
+abbreviation: PN
+color: party-pn
 category: "Political parties"
-permalink: /about/party/ns
+permalink: /about/party/pn
 ---
 
-**Natural Balance** (Natursamhod) is an <a href="https://en.wikipedia.org/wiki/Agrarianism">agrarian</a> and bioconservative political party in Hverland.
+**Natural Balance** (Pinngortitap naligiissusia) is an <a href="https://en.wikipedia.org/wiki/Agrarianism">agrarian</a> and bioconservative political party in Hverland.
 
 ### History
 

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Futurist bloc
-hv: 
+hv: Siunissarsamnadin
 abbreviation: 
 category: "Political parties"
 permalink: /about/party/futurist-bloc
 ---
 
-The **Futurist bloc** is a technical group in the Thjodting that is composed of several parties and members who share common views on bioethics, transhumanism, and the role of technology in society. The bloc's goals include, among others, citizenship for artificial intelligences and lifting the ban on research regarding human augmentation. The bloc is frequently contrasted against the Teknoveid Alliance, whose members are generally bioconservative and opposed to transhumanism.
+The **Futurist bloc** (Siunissarsamnadin) is a technical group in the Thjodting that is composed of several parties and members who share common views on bioethics, transhumanism, and the role of technology in society. The bloc's goals include, among others, citizenship for artificial intelligences and lifting the ban on research regarding human augmentation. The bloc is frequently contrasted against the Teknoveid Alliance, whose members are generally bioconservative and opposed to transhumanism.
 
-As of 2024, the Futurist bloc is the largest governing bloc in the Thjodting. Of the 41 members in government, 30 are members of the Futurist bloc. However, the largest party in government is the Liberals, of whom only 5 of 13 members are part of the Futurist bloc. This means that, despite the Futuristic bloc comprising the majority of the government (75.6%), it does not have a majority of the seats in the Thjodting nor does it necessarily have the support of the largest party in government.
+As of 2024, the futurist bloc is the largest governing bloc in the Thjodting. Of the 41 members in government, 30 are members of the Futurist bloc. However, the largest party in government is the Liberals, of whom only 5 of 13 members are part of the Futurist bloc. This means that, despite the Futuristic bloc comprising the majority of the government (75.6%), it does not have a majority of the seats in the Thjodting nor does it necessarily have the support of the largest party in government.
 
 
 ### History
