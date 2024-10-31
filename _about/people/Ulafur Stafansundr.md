@@ -3,12 +3,12 @@ layout: page
 title: Ulafur Stafansundr
 page-image: 
   path:  https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kristjan_thor_Juliusson_%28Sj.%29_Island.jpg/802px-Kristjan_thor_Juliusson_%28Sj.%29_Island.jpg?20130307011918
-  cutline: Official portrait, 2023
+  cutline: Ulafur in 2023
 permalink: /about/people/ulafur-stafansundr
 category: "People"
 ---
 
-Ulafur Stafansundr (born 24 January 1974) is a Hverlandic politician and the incumbent superintendent of state, the head of government of Hverland. He is a member of the <a href="{{ '/about/party/fm' | relative_url }}">Liberals</a>. He has been in office since 2023 following that year's general election. 
+**Ulafur Stafansundr** (born 24 January 1974) is a Hverlandic politician and the incumbent superintendent of state, the head of government of Hverland. He is a member of the [Liberals](/HUN/about/party/as) He has been in office since 2023 following that year's general election. 
 
 # Early life
 Ulafur Stafansundr was born in 1974 in Stjornuyst, Tyrvhuln. After graduating high school, Ulafur pursued a degree in engineering from the University of Hverland. He graduated in 1996.

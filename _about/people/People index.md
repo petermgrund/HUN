@@ -11,42 +11,43 @@ permalink: about/people/index
 This page lists all the people mentioned on HÚN. People are listed alphabetically by first name. Hverlandic lasts name are patronymic, not a family name. Most recent party affiliation abbreviations are in parentheses if applicable.
 
 ## A
-- Adrian Hlothversundr (<a href="{{ '/about/party/tb' | relative_url }}">TB</a>): leader of A Nation to Preserve (2020-)
+- Adrian Hlothversundr ([PI](/HUN/about/party/pi)): leader of A Nation to Preserve (2020-)
 
 ## B
-- <a href="{{ '//politics/2024/03/11/election/' | relative_url }}">Bethany McNeil</a> (<a href="{{ '/about/party/fm' | relative_url }}">FM</a>): American-born member of the Thjodting (2024-)
-- Bjarte Leivssundr (<a href="{{ '/about/party/ns' | relative_url }}">NS</a>): chairperson of the Office for Education and Culture (2019-2023), 
+- [Bethany McNeil](/HUN/politics/2024/03/11/election) ([AS](/HUN/about/party/as)): American-born member of the Thjodting (2024-)
+- Bjarte Leivssundr ([PN](/HUN/about/party/pn)): chairperson of the Office for Education and Culture (2019-2023)
+- Bodil Marisiodotra ([KS](/HUN/about/party/ks)): chairperson of the Office for Foreign Affairs (2023-)
 
 ## C
 
 ## D
-- Dahlia Snyggdotra (<a href="{{ '/about/party/gfu' | relative_url }}">GFU</a>): leader of the Greens and Futurists (2024-)
+- Dahlia Snyggdotra ([KS](/HUN/about/party/ks)): leader of the Greens and Futurists (2024-)
 
 ## E
 - Eir the Elder (c. 900): a founding elder of Tyrvhuln, namesake of the Eir neighborhood
-- Eirikur Hjaltsundr: Bishop of the Church of Hverland (2006-)
-- <a href="{{ '/health/2024/03/11/psych/' | relative_url }}">Einar Snorrasundr</a>: former child psychiatrist at LAS
-- <a href="{{ '/about/people/eyrune-marisioradotra' | relative_url }}">Eyrune Marisioradotra</a> (<a href="{{ '/about/party/ns' | relative_url }}">NS</a>): leader of Natural Balance (2023-)
+- Eirikur Hjaltsundr: Bishop of the [Church of Hverland](/HUN/about/church) (2006-)
+- [Einar Snorrasundr](/HUN/health/2024/03/11/psych/): former child psychiatrist at LAS
+- [Eyrune Marisioradotra](/HUN/about/people/eyrune-marisioradotra) ([PN](/HUN/about/party/pn)): leader of Natural Balance (2023-)
 
 ## F
 
 ## G
 - Galdur the Seer (c. 900): a founding elder of Tyrvhuln, namesake of the Galdur neighborhood
-- Gorm Grasksundr (<a href="{{ '/about/party/ke' | relative_url }}">KE</a>): leader of United Christians (2020-)
+- Gorm Grasksundr ([AK](/HUN/about/party/ak)): leader of United Christians (2020-)
 
 ## H
-- Hjorleifur Hjorleifursundr (<a href="{{ '/about/party/ai' | relative_url }}">AI</a>): leader of Spirit of Innovation (2019-)
+- Hjorleifur Hjorleifursundr ([PA](/HUN/about/party/pa)): leader of Spirit of Innovation (2019-)
 
 ## I
-- <a href="{{ '/about/people/ingibjorhg-halgrimsdotra' | relative_url }}">Ingibjorhg Halgrimsdotra</a> (1938-2022) (*none*): president of Hverland (2009-2015) and mayor of Tyrvhuln (1983-1995)
+- [Ingibjorhg Halgrimsdotra](/HUN/about/people/ingibjorhg-halgrimsdotra) (1938-2022) (*none*): president of Hverland (2009-2015) and mayor of Tyrvhuln (1983-1995)
 
 ## J
-- Jyorn Bjhrnasundr (<a href="{{ '/about/party/gfu' | relative_url }}">GFU</a>): chairperson of the Office for Technology and Data Governance (2023-)
+- Jyorn Bjhrnasundr ([KS](/HUN/about/party/ks)): chairperson of the Office for Technology and Data Governance (2023-)
 
 ## K
 
 ## L
-- Lelhja Bjhrnadotra (<a href="{{ '/about/party/fm' | relative_url }}">FM</a>): chairperson for Culture and Education (2023-)
+- Lelhja Bjhrnadotra ([AS](/HUN/about/party/as)): chairperson for Culture and Education (2023-)
 
 ## M
 
@@ -65,7 +66,8 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 ## S
 - Sigrun Halldorsdotra: child psychologist in Tyrvhuln
 - Stjornu of the North (c. 900): a founding elder of Tyrvhuln, namesake of the Stjornu neighborhood
-- Syg Hjorleyifsundr (<a href="{{ '/about/party/sf' | relative_url }}">SF</a>): leader of the Urban Progressives (2021-)
+- [Sverri Hjaltsundr](/HUN/people/sverri-hjaltsundr) (1929-2020): Hverlandic roboticist, writer, and futurist
+- Syg Hjorleyifsundr ([IS](/HUN/about/party/is)): leader of the Urban Progressives (2021-)
 
 ## T
 - Thorthis Semundsdotra: child psychiatrist in Tyrvhuln
@@ -73,10 +75,10 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 
 ## U
 - Ul Tryggvisundr: Hverlandic Police superintendent (2017-)
-- <a href="{{ '/about/people/ulafur-stafansundr' | relative_url }}">Ulafur Stafansundr</a> (<a href="{{ '/about/party/fm' | relative_url }}">FM</a>): superintendent of state (2023-)
+- [Ulafur Stafansundr](/HUN/about/people/ulafur-stafansundr) ([AS](/HUN/about/party/as)): superintendent of state (2023-)
 
 ## V
-- Vhendr Djarfsundr (<a href="{{ '/about/party/fm' | relative_url }}">FM</a>): mayor of Tyrvhuln (2023-)
+- Vhendr Djarfsundr ([AS](/HUN/about/party/as)): mayor of Tyrvhuln (2023-)
 - Vyr the Devout (c. 900): a founding elder of Tyrvhuln, namesake of the Vyr neighborhood
 
 ## W

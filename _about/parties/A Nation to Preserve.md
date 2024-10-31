@@ -7,7 +7,7 @@ color: party-pi
 abbreviation: PI
 permalink: /about/party/pi
 ---
-**A Nation to Preserve** (Piuanadi nunaadin) is a Teknoveid political party in Hverland. 
+**A Nation to Preserve** (Piuanadi nunaadin) is a political party in Hverland. 
 
 ### History
 

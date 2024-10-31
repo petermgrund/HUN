@@ -15,20 +15,21 @@ The **Thjodting** is the legislative body of Hverland, responsible for passing l
 The Thjodting consists of 81 elected members who serve four-year terms. Members are elected to a four-year term in parallel voting, with 61 members elected in single-seat constituencies and 20 members elected by proportional representation. The voting in the elections is open to all citizens of Hverland who are at least 18 years old.
 
 The 2023 parliamentary election determined the current composition:
-* Government (41)
-    * <span class="party-stripe party-as"></span><a href="{{ '/about/party/as' | relative_url }}">Liberals</a> (13)
-    * <span class="party-stripe party-ks"></span><a href="{{ '/about/party/ks' | relative_url }}">Greens and Futurists</a> (11)
-    * <span class="party-stripe party-pa"></span><a href="{{ '/about/party/pa' | relative_url }}">Spirit of Innovation</a> (8)
-    * <span class="party-stripe party-ids"></span><a href="{{ '/about/party/ids' | relative_url }}">Social Democratic Party</a> (6)
-    * <span class="party-stripe party-is"></span><a href="{{ '/about/party/is' | relative_url }}">Urban Progressives</a> (3)
+* Government (33)
+    * <span class="party-stripe party-as"></span> [Liberals](/HUN/about/party/as) (13)
+    * <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (11)
+    * <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (6)
+    * <span class="party-stripe party-is"></span> [Urban Progressives](/HUN/about/party/is) (3)
+* Confidence and supply (8)
+    * <span class="party-stripe party-pa"></span> [Spirit of Innovation](/HUN/about/party/pa) (8)
 * Other parties (40)
-  * <a href="{{ '/about/party/tai' | relative_url }}">Teknoveid Alliance</a> (31)
-    * <span class="party-stripe party-pn"></span><a href="{{ '/about/party/pn' | relative_url }}">Natural Balance</a> (13)
-    * <span class="party-stripe party-pi"></span><a href="{{ '/about/party/pi' | relative_url }}">A Nation to Preserve</a> (10)
-    * <span class="party-stripe party-na"></span><a href="{{ '/about/party/na' | relative_url }}">Farmers and Fishers</a> (8)
-  * <span class="party-stripe party-ak"></span><a href="{{ '/about/party/ak' | relative_url }}">United Christians</a> (6)
-  * <span class="party-stripe party-ik"></span><a href="{{ '/about/party/ik' | relative_url }}">Community of the People</a> (2)
-  * <span class="party-stripe party-nq"></span><a href="{{ '/about/party/nq' | relative_url }}">Independent Compass</a> (1)
+  * [Initsikat](/HUN/about/party/initsikat) (31)
+    * <span class="party-stripe party-pn"></span> [Natural Balance](/HUN/about/party/pn) (13)
+    * <span class="party-stripe party-pi"></span> [A Nation to Preserve](/HUN/about/party/pi) (10)
+    * <span class="party-stripe party-na"></span> [Farmers and Fishers](/HUN/about/party/na) (8)
+  * <span class="party-stripe party-ak"></span> [United Christians](/HUN/about/party/ak) (6)
+  * <span class="party-stripe party-ik"></span> [Community of the People](/HUN/about/party/ik) (2)
+  * <span class="party-stripe party-nq"></span> [Independent Compass](/HUN/about/party/nq) (1)
 
 # Committees
 To facilitate its legislative duties, the Thjodting is divided into several standing committees. These committees are responsible for reviewing and making recommendations on specific issues within their purview. They play a crucial role in the legislative process by conducting research, holding hearings, and drafting legislation for consideration by the full Thjodting.

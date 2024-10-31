@@ -4,7 +4,7 @@ title: Ingibjorhg Halgrimsdotra
 category: "People"
 page-image: 
   path:  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReTBnxDdeq-tDeW22S8eXc7j76aiBZBEeep78u1KkV-F0xgyS7npWQG-fYdvQ-nbDvmIA&usqp=CAU
-  cutline: 1984 portrait during her tenure as Mayor of Tyrvhuln
+  cutline: Ingibjorhg in 1984
 permalink: about/people/ingibjorhg-halgrimsdotra
 ---
 
