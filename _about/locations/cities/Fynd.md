@@ -2,7 +2,7 @@
 layout: page
 title: Fynd
 page-image: 
-  path:  
+  path: https://upload.wikimedia.org/wikipedia/commons/d/d3/Faroe_Islands%2C_Streymoy%2C_T%C3%B3rshavn_%281%29.jpg
   cutline: 
 permalink: /about/locations/fynd
 category: "Locations"

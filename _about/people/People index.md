@@ -15,8 +15,8 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 
 ## B
 - [Bethany McNeil](/HUN/politics/2024/03/11/election) ([AS](/HUN/about/party/as)): American-born member of the Thjodting (2024-)
-- Bjarte Leivssundr ([PN](/HUN/about/party/pn)): chairperson of the Office for Education and Culture (2019-2023)
-- Bodil Marisiodotra ([KS](/HUN/about/party/ks)): chairperson of the Office for Foreign Affairs (2023-)
+- Bjarte Leivssundr ([PN](/HUN/about/party/pn)): Intendant for Education and Culture (2019-2023)
+- Bodil Marisiodotra ([KS](/HUN/about/party/ks)): Intendant for Affairs (2023-)
 
 ## C
 
@@ -30,6 +30,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 - [Eyrune Marisioradotra](/HUN/about/people/eyrune-marisioradotra) ([PN](/HUN/about/party/pn)): leader of Natural Balance (2023-)
 
 ## F
+- Fryvth Hjorvthsundr ([IDS](/HUN/about/party/ids)): Superintendent for State (2008-2009)
 
 ## G
 - Galdur the Seer (c. 900): a founding elder of Tyrvhuln, namesake of the Galdur neighborhood
@@ -39,15 +40,17 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 - Hjorleifur Hjorleifursundr ([PA](/HUN/about/party/pa)): leader of Spirit of Innovation (2019-)
 
 ## I
-- [Ingibjorhg Halgrimsdotra](/HUN/about/people/ingibjorhg-halgrimsdotra) (1938-2022) (*none*): president of Hverland (2009-2015) and mayor of Tyrvhuln (1983-1995)
+- [Ingibjorhg Halgrimsdotra](/HUN/about/people/ingibjorhg-halgrimsdotra) (1938-2022) (*none*): President of State (2009-2015) and mayor of Tyrvhuln (1983-1995)
 
 ## J
-- Jyorn Bjhrnasundr ([KS](/HUN/about/party/ks)): chairperson of the Office for Technology and Data Governance (2023-)
+- Jyorn Bjhrnasundr ([KS](/HUN/about/party/ks)): Intendant for Data Governance (2023-)
+- Jyrk Krondsundr ([KS](/HUN/about/party/ks)): Superintendent for State (2009)
 
 ## K
+- Krynda Skrydotra ([IDS](/HUN/about/party/ids)): Superintendent for State (2011-2012)
 
 ## L
-- Lelhja Bjhrnadotra ([AS](/HUN/about/party/as)): chairperson for Culture and Education (2023-)
+- Lelhja Bjhrnadotra ([AS](/HUN/about/party/as)): Intendant for Culture and Education (2023-)
 
 ## M
 
@@ -66,6 +69,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 ## S
 - Sigrun Halldorsdotra: child psychologist in Tyrvhuln
 - Stjornu of the North (c. 900): a founding elder of Tyrvhuln, namesake of the Stjornu neighborhood
+- [Svavana Hyvrthdotra](/HUN/about/people/svavana-hyvrthdotra) ([AS](/HUN/about/party/as)): [superintendent for state](/HUN/about/government/superintendent) (2012-2023)
 - [Sverri Hjaltsundr](/HUN/people/sverri-hjaltsundr) (1929-2020): Hverlandic roboticist, writer, and futurist
 - Syg Hjorleyifsundr ([IS](/HUN/about/party/is)): leader of the Urban Progressives (2021-)
 
@@ -75,7 +79,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 
 ## U
 - Ul Tryggvisundr: Hverlandic Police superintendent (2017-)
-- [Ulafur Stafansundr](/HUN/about/people/ulafur-stafansundr) ([AS](/HUN/about/party/as)): superintendent of state (2023-)
+- [Ulafur Stafansundr](/HUN/about/people/ulafur-stafansundr) ([AS](/HUN/about/party/as)): [superintendent for state](/HUN/about/government/superintendent) (2023-)
 
 ## V
 - Vhendr Djarfsundr ([AS](/HUN/about/party/as)): mayor of Tyrvhuln (2023-)
