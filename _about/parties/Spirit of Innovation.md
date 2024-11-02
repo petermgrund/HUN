@@ -12,7 +12,7 @@ permalink: /about/party/pa
 
 The party's platform calls for the deregulation of all forms of human augmentation and artificial intelligence research. The party also supports certain anarchist and libertarian goals, such as reducing the size of the state and increasing individual freedoms. The economic policy of the party has been described as "two phased", with support for free markets in the short term and a post-scarcity, mutualist economy in the long term. The switchover to a hypothetical post-scarcity economy would begin following the singularity, which the party is working to accelerate.
 
-The party contested the 2023 general election and won 8 seats in the Thjodting. Its members of the Thjodting are part of the [Futurist Cooperative](/HUN/about/party/fut-coo), a technical group of parties and members who share a pro-futurist ideology and who are skeptical of the Tyrvhuln consensus.
+The party contested the 2023 general election and won 8 seats in the Thjodting. Its members of the Thjodting are part of the [Futurist Cooperative](/HUN/about/party/future), a technical group of parties and members who share a pro-futurist ideology and who are skeptical of the Tyrvhuln consensus.
 
 ### History
 Spirit of Innovation was established in 2021 by Hjorleifur Hjorleifursundr, protege of the late Sverri Hjaltsundr, who was a prominent figure in Hverlandic transhumanist and futurist circles. Hjorleifur founded the party
@@ -22,13 +22,6 @@ The party's ideology is based on the principles of Sverrism, a Hverlandic politi
 
 The party strongly advocates for accelerationism – the conscious and deliberate propulsion of technological development. Hjorleifur said in a 2023 debate that "deceleration of AI will cost lives. Deaths that were preventable by the AI that was prevented from existing is a form of murder."
 
-
-
-
-
-Give us a real world problem, and we can invent technology that will solve it.
-
-
 ### Platform
 
 #### Economic issues
@@ -37,7 +30,7 @@ Give us a real world problem, and we can invent technology that will solve it.
 * Eliminate "snooper's clause" which allows money saved in self-hosted digital wallets to be monitored by the government. 
 * Remove Hverland's protectionist trade policies to facilitate global technological integration.
 * Modernize intellectual property protections to incentivize innovation while ensuring fair competition.
-* Implement AI-managed wealth redistribution systems that dynamically allocate resources based on real-time economic data.
+* Implement AI-managed wealth redistribution systems based on economic data.
 * Transition all social welfare programs to privately managed entities driven by market dynamics.
 
 #### Energy and environment
@@ -50,7 +43,7 @@ Give us a real world problem, and we can invent technology that will solve it.
 * Invest heavily in brain-computer interface research.
 * Require the elimination of hereditary diseases through genetic engineering and gene editing in vitro.
 * Immediately grant legal personhood to advanced AI systems to ensure their rights and responsibilities in society.
-* Replace all  regulatory bodies with AI-driven automated systems that process approvals and compliance to eliminate human-induced inefficiencies.
+* Replace certain regulatory bodies with AI-driven automated systems that process approvals and compliance to eliminate human-induced inefficiencies.
 
 #### Social issues
 * Legalize all forms of consensual adult activities.

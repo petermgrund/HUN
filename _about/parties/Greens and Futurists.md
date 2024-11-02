@@ -8,7 +8,7 @@ category: "Political parties"
 permalink: /about/party/ks
 ---
 
-**Greens and Futurists** (Kuannersuit ok siunissartut) is a political party in Hverland.
+**Greens and Futurists** (Kuannersuit ok siunissartut) is a [techno-progressive](/HUN/about/ideology/techno-progressivism) political party in Hverland.
 
 ### History
 

@@ -14,6 +14,8 @@ The **Liberals** (Asingasut) is a political party in Hverland.
 
 ### Ideology
 
+The Liberals are considered a techno-realist party, but have members who are part of the [Futurist Cooperative](/HUN/about/party/future).
+
 ### Platform
 
 ### Leadership

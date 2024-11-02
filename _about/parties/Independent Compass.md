@@ -11,7 +11,7 @@ category: "Political parties"
 permalink: /about/party/nq
 ---
 
-**Independent Compass** (Namminersortut qaammataasinadin) is a political party in Hverland.
+**Independent Compass** (Namminersortut qaammataasinadin) is a [techno-progressive](/HUN/about/ideology/techno-progressivism) political party in Hverland.
 
 ### History
 
