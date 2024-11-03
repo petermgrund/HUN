@@ -8,12 +8,12 @@ category: "Political parties"
 permalink: /about/party/ids
 ---
 
-The **Social Democratic Party** (Inuiaqatigiinni demokratersamnadin) is a political party in Hverland.
+The **Social Democratic Party** (Inuiaqatigiinni demokratersamnadin) is a social democratic and techno-realist political party in Hverland. 
 
 ### History
 
 ### Ideology
-The IDS are considered a techno-realist party, but have members who are part of the [Futurist Cooperative](/HUN/about/party/future).
+The IDS are considered a techno-realist party, but there are members who are part of the [Futurist Cooperative](/HUN/about/party/future).
 
 ### Platform
 
