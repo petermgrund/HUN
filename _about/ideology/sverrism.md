@@ -21,7 +21,7 @@ In the 2023 general election, a new Sverrist party, [Spirit of Innovation](/HUN/
 
 ## Principles
 
-Sverrists are staunchly liberal on social issues (abortion, ), supportive of feminism, free development of gender and sexual identity, regulation of sex work, and liberalisation of drugs. Regarding religion, they are opposed to universalist and organised religions and have strong disapproval for the position of the Church of Hverland in society. 
+Sverrists are staunchly liberal on social issues, supportive of feminism and free development of gender and sexual identity, sex work, and liberalisation of drugs. Regarding religion, they are opposed to universalist and organised religions and have strong disapproval for the position of the Church of Hverland in society. 
 
-On economics, Sverrists support free markets and say that they are the most effective mechanism for organizing economic activity and fostering innovation. Markets are seen as adaptive, decentralized systems that efficiently allocate resources, drive productivity, and generate wealth.
+On economics, Sverrists support free markets and say that they are the most effective mechanism for organizing economic activity and fostering innovation. Markets are seen as adaptive, decentralized systems that efficiently allocate resources, drive productivity, and generate wealth. 
 

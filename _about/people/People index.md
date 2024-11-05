@@ -25,7 +25,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 
 ## E
 - Eir the Elder (c. 900): a founding elder of Tyrvhuln, namesake of the Eir neighborhood
-- Eirikur Hjaltsundr: Bishop of the [Church of Hverland](/HUN/about/church) (2006-)
+- Eirikur Hjaltsundr: bishop of the [Church of Hverland](/HUN/about/church) (2006-)
 - [Einar Snorrasundr](/HUN/health/2024/03/11/psych/): former child psychiatrist at LAS
 - [Eyrune Marisioradotra](/HUN/about/people/eyrune-marisioradotra) ([PN](/HUN/about/party/pn)): leader of Natural Balance (2023-)
 
@@ -75,7 +75,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 
 ## T
 - Thorthis Semundsdotra: child psychiatrist in Tyrvhuln
-- Tryl Adriansdotra: bishop of the Church of Hverland (2019-)
+- Tryl Adriansdotra: associate bishop of the Church of Hverland (2019-)
 
 ## U
 - Ul Tryggvisundr: Hverlandic Police superintendent (2017-)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Government of Hverland
+hv: Hverlandip naalakkersuisut
 page-image: 
   path: 
   cutline: 
@@ -8,7 +9,7 @@ permalink: /about/government
 category: "Government"
 ---
 
-The **Government of Hverland** is a parliamentary representative democratic republic. The government is divided into four branches: the executive branch, the legislative branch, the judicial branch, and the auditory branch. The government is based on the Constitution of Hverland, which was adopted in 1945 and has been amended several times since then. The Constitution establishes the structure and powers of the government.
+The **Government of Hverland** (Hverlandip naalakkersuisut) is a parliamentary representative democratic republic. The government is divided into four branches: the executive branch, the legislative branch, the judicial branch, and the auditory branch. The government is based on the Constitution of Hverland, which was adopted in 1945 and has been amended several times since then. The Constitution establishes the structure and powers of the government.
 
 ### Executive branch
 
@@ -17,7 +18,7 @@ The **Government of Hverland** is a parliamentary representative democratic repu
 The President of State is the highest constitutional and ceremonial post in Hverland. Established by the Hverlandic Constitution, the President serves as the head of state. The President is vested with certain executive powers and duties, but these are largely ceremonial in nature. The President is elected by the residents of Hverland to serve a four-year term.
 
 #### State Office
-The State Office is the central executive authority of Hverland. The State Office is led by the Superintendent for State who chooses all other members of the State Office (referred to as intendants). Originally called "ministries", administrative reform in 1969 reorganized the ministries under the auspices of the State Office. 
+The State Office is the central executive authority (CEA) of Hverland. The State Office is led by the Superintendent for State who chooses all other members of the State Office (referred to as intendants). Originally called "ministries", administrative reform in 1969 reorganized the ministries under the auspices of the State Office. 
 
 **List of positions and offices**:
 * Superintendent for State: [Office for State](/HUN/about/government/superintendent)

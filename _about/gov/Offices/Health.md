@@ -8,7 +8,7 @@ permalink: about/government/health
 category: "Government"
 ---
 
-The **Office for Health and Welfare** is the central executive authority responsible for health and welfare policy in Hverland. This includes the administration of the [Hverland Health System](/HUN/about/government/hp). The Office also manages various other programs related to public well-being, such as housing, unemployment benefits, and family services. The office is headed by the Intendant for Health and Welfare. 
+The **Office for Health and Welfare** is the cabinet-level office responsible for health and welfare policy in Hverland. This includes the administration of the [Hverland Health System](/HUN/about/government/hp). The Office also manages various other programs related to public well-being, such as housing, unemployment benefits, and family services. The office is headed by the Intendant for Health and Welfare. 
 
 ### Organization and leadership
 

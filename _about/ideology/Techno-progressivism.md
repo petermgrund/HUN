@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Techno-progressivism
-hv: 
+hv: Teknologisiiariarusiut
 abbreviation: 
 category: "Ideology"
 permalink: /about/ideology/techno-progressivism
 ---
 
-**Techno-progressivism** is a 
+**Techno-progressivism** (teknologisiiariarusiut) 

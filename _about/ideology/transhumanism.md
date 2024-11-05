@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transhumanism
-hv: 
+hv: Inuussutinik atortarissaaneq
 abbreviation: 
 category: "Ideology"
 permalink: /about/ideology/transhumanism

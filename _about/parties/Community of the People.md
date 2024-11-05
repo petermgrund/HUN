@@ -11,7 +11,11 @@ page-image:
   cutline: 
 ---
 
-**Community of the People** (Inus katimanadin) is a political party in Hverland.
+<div style="text-align: left;">
+  <img src="{{ site.baseurl }}/assets/img/ik-logo.svg" alt="Logo" style="height: 100px;">
+</div>
+
+**Community of the People** (Inus katimanadin) is a left-wing, [techno-conservative](/HUN/about/ideology/techno-conservatism) political party in Hverland.
 
 ### History
 

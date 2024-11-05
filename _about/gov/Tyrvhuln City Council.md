@@ -21,14 +21,15 @@ The 2022 municipal election determined the current composition:
     * <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (4)
     * <span class="party-stripe party-is"></span> [Urban Progressives](/HUN/about/party/is) (2)
     * <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (2)
-    * <span class="party-stripe party-ik"></span> [Community of the People](/HUN/about/party/ik) (2)
+    * <span class="party-stripe party-nq"></span> [Independent Compass](/HUN/about/party/nq) (2)
+
 * Other parties (13)
   * [Initsikat](/HUN/about/party/initsikat) (6)
     * <span class="party-stripe party-pi"></span> [A Nation to Preserve](/HUN/about/party/pi) (3)
-    * <span class="party-stripe party-pn"></span><a href="{{ '/about/party/pn' | relative_url }}">Natural Balance</a> (2)
-    * <span class="party-stripe party-na"></span><a href="{{ '/about/party/na' | relative_url }}">Farmers and Fishers</a> (1)
-  * <span class="party-stripe party-pa"></span><a href="{{ '/about/party/pa' | relative_url }}">Spirit of Innovation</a> (5)
-  * <span class="party-stripe party-nq"></span><a href="{{ '/about/party/nq' | relative_url }}">Independent Compass</a> (2)
+    * <span class="party-stripe party-pn"></span> [Natural Balance](/HUN/about/party/pn) (2)
+    * <span class="party-stripe party-na"></span> [Farmers and Fishers](/HUN/about/party/na) (1)
+  * <span class="party-stripe party-pa"></span> [Spirit of Innovation](/HUN/about/party/pa) (5)
+  * <span class="party-stripe party-ik"></span> [Community of the People](/HUN/about/party/ik) (2)
 
 # Mayor
 The Mayor is elected separately from the City Council and serves as the head of the executive branch of the city government. The Mayor is responsible for implementing the policies and decisions of the City Council, overseeing city departments, and representing the city in external matters. The Mayor often attends City Council meetings but does not have a vote unless there is a tie.

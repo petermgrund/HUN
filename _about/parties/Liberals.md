@@ -8,6 +8,10 @@ category: "Political parties"
 permalink: /about/party/as
 ---
 
+<div style="text-align: left;">
+  <img src="{{ site.baseurl }}/assets/img/as-logo.svg" alt="Logo" style="height: 100px;">
+</div>
+
 The **Liberals** (Asingasut) is a political party in Hverland. 
 
 ### History
