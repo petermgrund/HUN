@@ -30,7 +30,7 @@ Hospital care in Hverland is centralized within a limited network of three publi
 
 
 
-Hverhön National Medical Center
+ National Medical Center
 
 The Hverhön National Medical Center is the largest and most comprehensive hospital in Hverland. It is located in the capital city of Hverhöfn and serves as the primary referral center for complex medical cases and specialized treatments. It is also the center for diagnostic imaging, laboratory services, and medical research. 
 

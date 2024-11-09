@@ -17,7 +17,7 @@ The **Social Democratic Party** (Inuiaqatigiinni demokratersamnadin) is a social
 ### History
 
 ### Ideology
-The IDS are considered a techno-realist party, but there are members who are part of the [Futurist Cooperative](/HUN/about/party/future).
+The IDS are considered a techno-realist party, but has a few members who are part of the [Futurist Cooperative](/HUN/about/party/future).
 
 ### Platform
 

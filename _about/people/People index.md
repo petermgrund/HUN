@@ -16,7 +16,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 ## B
 - [Bethany McNeil](/HUN/politics/2024/03/11/election) ([AS](/HUN/about/party/as)): American-born member of the Thjodting (2024-)
 - Bjarte Leivssundr ([PN](/HUN/about/party/pn)): Intendant for Education and Culture (2019-2023)
-- Bodil Marisiodotra ([KS](/HUN/about/party/ks)): Intendant for Affairs (2023-)
+- [Bodil Marisiodotra](/HUN/politics/2024/11/08/resign/) ([KS](/HUN/about/party/ks)): Intendant for Affairs (2023-)
 
 ## C
 
@@ -90,6 +90,7 @@ This page lists all the people mentioned on HÚN. People are listed alphabetical
 ## X
 
 ## Y
+- [Yngve Kravvyykdotra]() ([AS](/HUN/about/party/as)): Intendant for Relations (2024-)
 
 ## Z
 

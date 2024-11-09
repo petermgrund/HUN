@@ -16,4 +16,4 @@ The Office for Health and Welfare is led by the Intendant for Health and Welfare
 
 #### Intendants
 
-* Halldor Hjorvthsundr (1945 - 1953)
+* Halldor Hjorvthsundr: 18 Dec 1945 - 10 Mar 1953

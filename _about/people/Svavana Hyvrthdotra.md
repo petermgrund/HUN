@@ -2,8 +2,8 @@
 layout: page
 title: Svavana Hyvrthdotra
 page-image: 
-  path: https://upload.wikimedia.org/wikipedia/commons/7/72/Aino-Kaisa_Pekonen--9_%2830570%29.jpg
-  cutline: 
+  path: https://members-api.parliament.uk/api/Members/4267/Portrait?cropType=ThreeFour&webVersion=false
+  cutline: Svavana in 2023
 permalink: about/people/svavana-hyvrthdotra
 category: "People"
 ---

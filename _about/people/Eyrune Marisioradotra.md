@@ -3,8 +3,8 @@ layout: page
 title: Eyrune Marisioradotra
 category: "People"
 page-image: 
-  path:  https://upload.wikimedia.org/wikipedia/commons/3/3c/PM_in_China_%2839124067045%29_%28cropped%29.jpg
-  cutline: Eyrune in 2020
+  path:  https://members-api.parliament.uk/api/Members/8/Portrait?cropType=ThreeFour&webVersion=false
+  cutline: Eyrune in 2024
 permalink: /about/people/eyrune-marisioradotra
 ---
 
