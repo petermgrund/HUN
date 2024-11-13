@@ -12,6 +12,8 @@ The **Thjodting** is the legislative body of Hverland, responsible for passing l
 
 ### Composition
 
+*[List of members of the Thjodting](https://petergrund.shinyapps.io/thjodting/)*
+
 The Thjodting consists of 81 elected members who serve four-year terms. Members are elected to a four-year term in parallel voting, with 61 members elected in single-seat constituencies and 20 members elected by proportional representation. The voting in the elections is open to all citizens of Hverland who are at least 18 years old.
 
 The 2023 parliamentary election determined the current composition:

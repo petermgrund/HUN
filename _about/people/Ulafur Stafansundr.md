@@ -2,7 +2,7 @@
 layout: page
 title: Ulafur Stafansundr
 page-image: 
-  path:  https://members-api.parliament.uk/api/Members/1471/Portrait?cropType=ThreeFour&webVersion=false
+  path:  https://members-api.parliament.uk/api/Members/4801/Portrait?cropType=ThreeFour
   cutline: Ulafur in 2023
 permalink: /about/people/ulafur-stafansundr
 category: "People"
