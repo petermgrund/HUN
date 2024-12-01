@@ -42,14 +42,14 @@ Specific types of ammunition, including high-capacity magazines and armor-pierci
     <tbody>
         <tr>
             <td style="padding: 10px;"><span class="party-stripe party-as"></span><a href="{{ '/about/party/as' | relative_url }}">Liberals</a> </td>
-            <td style="padding: 10px; background-color: #D6F5D6;">9</td>
-            <td style="padding: 10px;">4</td>
+            <td style="padding: 10px; background-color: #D6F5D6;">13</td>
+            <td style="padding: 10px;">0</td>
             <td style="padding: 10px;">0</td>
         </tr>
                 <tr>
             <td style="padding: 10px;"><span class="party-stripe party-pn"></span><a href="{{ '/about/party/pn' | relative_url }}">Natural Balance</a></td>
-            <td style="padding: 10px;">1</td>
-            <td style="padding: 10px; background-color: #FFCCCC;">7</td>
+            <td style="padding: 10px;">0</td>
+            <td style="padding: 10px; background-color: #FFCCCC;">8</td>
             <td style="padding: 10px;">5</td>
         </tr>
         <tr>
@@ -108,8 +108,8 @@ Specific types of ammunition, including high-capacity magazines and armor-pierci
         </tr>
         <tr>
             <td style="padding: 10px;"><b>Total</b></td>
-            <td style="padding: 10px; background-color: #D6F5D6; color:green;"><i class="fa-solid fa-square-check" style="color: green;"></i><b> 38</b></td>
-            <td style="padding: 10px;"><!-- <i class="fa-solid fa-square-xmark"></i>--><b>37</b></td>
+            <td style="padding: 10px; background-color: #D6F5D6; color:green;"><i class="fa-solid fa-square-check" style="color: green;"></i><b> 41</b></td>
+            <td style="padding: 10px;"><!-- <i class="fa-solid fa-square-xmark"></i>--><b>34</b></td>
             <td style="padding: 10px;"><!--<i class="fa-solid fa-square-minus"></i>--><b>6</b></td>
         </tr>
     </tbody>

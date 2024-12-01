@@ -2,7 +2,7 @@
 layout: page
 title: Communist Left
 hv: Kommunistisaamerleq
-abbreviation: cs
+abbreviation: CS
 color: party-cs
 category: "Political parties"
 permalink: /about/party/cs

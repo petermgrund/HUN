@@ -17,6 +17,11 @@ Techno-realists are supportive of the [Tyrvhuln consensus](/HUN/about/ideology/t
 
 ## Principles
 
+## Parties and organisations
+
+* [Liberals](/HUN/about/party/as)
+* [Social Democratic Party](/HUN/about/party/ids)
+* [Urban Progressives](/HUN/about/party/is)
 
 
 

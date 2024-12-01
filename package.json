@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "d3-parliament-chart": "^0.0.6"
+  }
+}

@@ -25,3 +25,6 @@ Sverrists are staunchly liberal on social issues, supportive of feminism and fre
 
 On economics, Sverrists support free markets and say that they are the most effective mechanism for organizing economic activity and fostering innovation. Markets are seen as adaptive, decentralized systems that efficiently allocate resources, drive productivity, and generate wealth. 
 
+## Parties and organisations
+
+* [Spirit of Innovation](/HUN/about/party/pa)
