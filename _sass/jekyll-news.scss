@@ -455,5 +455,62 @@ button:focus {
   background-color: #DBDBDB;
 }
 
+.results-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 800px;
+  background: #fff;
+  margin: 0 auto;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  font-size: 14px;
+}
+
+.results-table caption {
+  font-weight: bold;
+  font-size: 1.2em;
+  text-align: left;
+  padding: 10px;
+}
+
+.results-table thead th {
+  background: #eee;
+  border-bottom: 2px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.results-table td, .results-table th {
+  padding: 8px;
+  vertical-align: middle;
+}
+
+.results-table tbody tr:nth-child(even) {
+  background: #f9f9f9;
+}
+
+.results-table tbody tr:hover {
+  background: #f1f1f1;
+}
+
+.results-table .party-name {
+  font-weight: bold;
+}
+
+.results-table tfoot td {
+  font-size: 0.9em;
+  padding: 8px;
+  border-top: 1px solid #ccc;
+}
+
+.results-table tfoot .source {
+  text-align: left;
+  font-style: italic;
+  color: #666;
+}
+
+.summary-row td {
+  font-weight: bold;
+  border-top: 2px solid #ccc;
+}
 
 
