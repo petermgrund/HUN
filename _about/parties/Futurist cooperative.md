@@ -19,18 +19,15 @@ The Futurist Co-op was formed in 2023 following the parliamentary elections that
 
 
 ### Membership
-The Futurist Co-op has an estimated toal of 24 members in the Thjodting, making it the second-largest bloc in the legislature with about 30% of the seats.
+The Futurist Co-op has an estimated toal of 23 members in the Thjodting, making it the second-largest bloc in the legislature with about 30% of the seats.
 
 The Futurist Co-op is composed of the following parties, whose platforms are explicitly techno-progressive and transhumanist:
 
-* <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (11)
+* <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (10)
 * <span class="party-stripe party-pa"></span> [Spirit of Innovation](/HUN/about/party/pa) (8)
 * <span class="party-stripe party-nq"></span> [Independent Compass](/HUN/about/party/nq) (1)
 
 The bloc also includes some independent members of the Liberals and Social Democratic Party, but these parties are not considered part of the bloc as a whole:
 
-* <span class="party-stripe party-as"></span> [Liberals](/HUN/about/party/as) (3) of 11 members
-* <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (1) of 6 members
-
-
-
+* <span class="party-stripe party-as"></span> [Liberals](/HUN/about/party/as) (3) of 18 members
+* <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (1) of 7 members

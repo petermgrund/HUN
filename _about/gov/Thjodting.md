@@ -23,7 +23,7 @@ The 2023 parliamentary election determined the current composition:
 
 
 <div style="text-align: left;">
-  <img src="{{ site.baseurl }}/assets/img/parliament.svg" alt="Logo" style="height: 200px;">
+  <img src="{{ site.baseurl }}/assets/img/2024-12-13-23-34-48-260785-04da1c299535ccbf3237413da66ea0e48a998563cd585f77f48b0b21e336372a.svg" alt="Logo" style="height: 200px;">
 </div>
 
 

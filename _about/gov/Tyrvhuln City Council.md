@@ -17,19 +17,36 @@ The City Council consists of 31 elected members who serve four-year terms. Membe
 
 The 2022 municipal election determined the current composition:
 * Government (18)
-    * <span class="party-stripe party-as"></span> [Liberals](/HUN/about/party/as) (8)
-    * <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (4)
-    * <span class="party-stripe party-is"></span> [Urban Progressives](/HUN/about/party/is) (2)
-    * <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (2)
-    * <span class="party-stripe party-nq"></span> [Independent Compass](/HUN/about/party/nq) (2)
+    * <span class="party-stripe party-as"></span> [Liberals](/HUN/about/party/as) (5)
+    * <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (5)
+    * <span class="party-stripe party-is"></span> [Urban Progressives](/HUN/about/party/is) (4)
+    * <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (3)
 
 * Other parties (13)
   * [Initsikat](/HUN/about/party/initsikat) (6)
+    * <span class="party-stripe party-pn"></span> [Natural Balance](/HUN/about/party/pn) (4)
     * <span class="party-stripe party-pi"></span> [A Nation to Preserve](/HUN/about/party/pi) (3)
-    * <span class="party-stripe party-pn"></span> [Natural Balance](/HUN/about/party/pn) (2)
-    * <span class="party-stripe party-na"></span> [Farmers and Fishers](/HUN/about/party/na) (1)
   * <span class="party-stripe party-pa"></span> [Spirit of Innovation](/HUN/about/party/pa) (5)
   * <span class="party-stripe party-ik"></span> [Community of the People](/HUN/about/party/ik) (2)
+
+# Seats
+
+
+
+| Neighbourhood | Seats | Party |
+|---------------|-------| ------|
+| Alguryst      | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-pa"></span>
+| Eirsnyn       | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-pn"></span>
+| Galduryst     | 3     | <span class="party-stripe party-as"></span><span class="party-stripe party-is"></span><span class="party-stripe party-ks"></span>
+| Heimili plass | 3     | <span class="party-stripe party-as"></span><span class="party-stripe party-as"></span><span class="party-stripe party-ik"></span>
+| Hveldrunyn    | 3     | <span class="party-stripe party-is"></span><span class="party-stripe party-ids"></span><span class="party-stripe party-pn"></span>
+| Ny kross      | 2     | <span class="party-stripe party-ks"></span><span class="party-stripe party-ks"></span>
+| Stjornuyst    | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-pa"></span>
+| Runamar       | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-ids"></span>
+| Vyrshofn      | 1     | <span class="party-stripe party-ids"></span>
+| Vesturbyst    | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-pn"></span>
+| *At-large*    | 9     | <span class="party-stripe party-ik"></span><span class="party-stripe party-as"></span><span class="party-stripe party-ids"></span><span class="party-stripe party-is"></span><span class="party-stripe party-pn"></span><span class="party-stripe party-pa"></span><span class="party-stripe party-ks"></span><span class="party-stripe party-is"></span><span class="party-stripe party-pa"></span>
+
 
 # Mayor
 The Mayor is elected separately from the City Council and serves as the head of the executive branch of the city government. The Mayor is responsible for implementing the policies and decisions of the City Council, overseeing city departments, and representing the city in external matters. The Mayor often attends City Council meetings but does not have a vote unless there is a tie.

@@ -7,15 +7,10 @@ color: party-ik
 category: "Political parties"
 permalink: /about/party/ik
 page-image: 
-  path:  
+  path: ../../assets/img/ik-logo.svg
   cutline: 
 ---
-
-<div style="text-align: left;">
-  <img src="{{ site.baseurl }}/assets/img/ik-logo.svg" alt="Logo" style="height: 100px;">
-</div>
-
-**Community of the People** (Inus katimanadin) is a left-wing, [techno-conservative](/HUN/about/ideology/techno-conservatism) political party in Hverland.
+**Community of the People** (Inus katimanadin) is a left-wing, [techno-conservative](/HUN/about/ideology/techno-conservatism) political party in Hverland. It primarily represents the interests of the indigenous Jallaq people, but also has a following among the urban poor and the working class. The party was founded in 1987 and has become dominant in the Tyrvhuln neighborhood of [Heimili plass](/HUN/about/locations/heimili-plass) where the Jallaq people make up 40 percent of the population. 
 
 ### History
 

@@ -2,8 +2,8 @@
 layout: page
 title: Kvlhuln
 page-image: 
-  path:  https://upload.wikimedia.org/wikipedia/commons/a/a0/Narsaq_Houses.jpg
-  cutline: Houses of Kvlhuln
+  path:  https://upload.wikimedia.org/wikipedia/commons/7/76/Faroe_Islands%2C_Streymoy%2C_Haldarsvík_%2805%29.jpg
+  cutline: 
 permalink: /about/locations/kvlhuln
 category: "Locations"
 ---

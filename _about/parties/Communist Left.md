@@ -10,7 +10,3 @@ page-image:
   path:  
   cutline: 
 ---
-
-<div style="text-align: left;">
-  <img src="{{ site.baseurl }}/assets/img/communist-logo.svg" alt="Logo" style="height: 100px;">
-</div>

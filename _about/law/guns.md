@@ -30,7 +30,7 @@ Specific types of ammunition, including high-capacity magazines and armor-pierci
 
 #### Vote in Fjallting
 
-<table border="1" style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
+<table style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
     <thead>
         <tr>
             <th style="padding: 10px;">Party</th>

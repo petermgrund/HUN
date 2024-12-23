@@ -230,19 +230,21 @@ hr {
 
 /* Page image and cutline */
 .page-image-container {
-  margin-left: 20%;
   justify-content: left;
+  
 }
 
 .page-image {
-  display: inline-block;
-  max-width: 35%;
+  display: inherit;
+  max-width: 60%;
   margin-left: auto;
   margin-right: auto;
-  text-align: left;}
+  text-align: left;
+}
   
 .page-image img {
-  width: 100%;
+  padding-top: 15px;
+  height: 150px;
 }
 .page-image figcaption {
   text-align: left;
@@ -513,4 +515,82 @@ button:focus {
   border-top: 2px solid #ccc;
 }
 
+
+/* Styles for the first table can remain as is.
+   The following are distinct styles for the second table. */
+
+   .election-table-2 {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.election-table-2 thead th {
+    background: #ECEFF1; /* Light gray/blue background */
+    border-bottom: 2px solid #ccc;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+    color: #000;
+}
+
+.election-table-2 td {
+    border-bottom: 1px solid #ccc;
+    padding: 8px;
+    vertical-align: middle;
+}
+
+.party-cell-2 {
+    white-space: nowrap;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+}
+
+.party-color-2 {
+    width: 5px;
+    height: 100%;
+    margin-right: 5px;
+}
+
+.party-name-2 {
+    font-weight: bold;
+}
+
+.candidate-name-2 a {
+    color: #1a0dab; /* Blue link color */
+    text-decoration: none;
+}
+.candidate-name-2 a:hover {
+    text-decoration: underline;
+}
+
+.election-table-2 tfoot td {
+    background: #ECEFF1;
+    border-top: 2px solid #ccc;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.votes-2, .percent-2 {
+    text-align: right;
+}
+
+table {
+  border-collapse: collapse; 
+}
+
+table td, table th {
+  padding: 10px; 
+  border-bottom: 1px solid #ccc;
+}
+
+table th, table td {
+  padding-right: 30px; 
+}
 
