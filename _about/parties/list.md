@@ -60,14 +60,14 @@ th {
         <th>Party</th>
         <th>Color/abbr.</th>
         <th>Ideology</th>
-        <th>Designation</th>
-        <th>Seats in Thjodting</th>
+        <th>Camp</th>
+        <th>Thjodting<br>seats</th>
     </tr>
     <tr>
-        <td><a href="{{ '/about/party/as' | relative_url }}">Liberals</a></td>
-        <td> <span class="party-stripe party-as"></span>AS </td>
+        <td><a href="{{ '/about/party/as' | relative_url }}">Liberals 65</a></td>
+        <td> <span class="party-stripe party-as"></span>A65 </td>
         <td>Centre-left</td>
-        <td><a href="{{ '/about/ideology/techno-realism' | relative_url }}" style="display: inline-block; text-align: left;">
+        <td><a href="{{ '/about/ideology/techno-realist' | relative_url }}" style="display: inline-block; text-align: left;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Eo_circle_cyan_letter-r.svg" style="height: 25px;">
         </a></td>
         <td>13</td>
@@ -85,7 +85,7 @@ th {
         <td><a href="{{ '/about/party/ks' | relative_url }}">Greens and Futurists</a></td>
         <td><span class="party-stripe party-ks"></span>KS </td>
         <td>Left-wing</td>
-        <td><a href="{{ '/about/ideology/techno-progressivism' | relative_url }}" style="display: inline-block; text-align: left;">
+        <td><a href="{{ '/about/ideology/techno-progressive' | relative_url }}" style="display: inline-block; text-align: left;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Eo_circle_purple_letter-p.svg" style="height: 25px;">
         </a></td>
         <td>11</td>
@@ -121,7 +121,7 @@ th {
         <td><a href="{{ '/about/party/ids' | relative_url }}">Social Democratic Party</a></td>
         <td><span class="party-stripe party-ids"></span>IDS </td>
         <td>Left-wing</td>
-        <td><a href="{{ '/about/ideology/techno-realism' | relative_url }}" style="display: inline-block; text-align: left;">
+        <td><a href="{{ '/about/ideology/techno-realist' | relative_url }}" style="display: inline-block; text-align: left;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Eo_circle_cyan_letter-r.svg" style="height: 25px;">
         </a></td>
         <td>6</td>
@@ -139,7 +139,7 @@ th {
         <td><a href="{{ '/about/party/is' | relative_url }}">Urban Progressives</a></td>
         <td><span class="party-stripe party-is"></span>IS </td>
         <td>Left-wing</td>
-        <td><a href="{{ '/about/ideology/techno-realism' | relative_url }}" style="display: inline-block; text-align: left;">
+        <td><a href="{{ '/about/ideology/techno-realist' | relative_url }}" style="display: inline-block; text-align: left;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Eo_circle_cyan_letter-r.svg" style="height: 25px;">
         </a></td>
         <td>3</td>
@@ -157,7 +157,7 @@ th {
         <td><a href="{{ '/about/party/nq' | relative_url }}">Independent Compass</a></td>
         <td><span class="party-stripe party-nq"></span>NQ </td>
         <td>Far-left</td>
-        <td><a href="{{ '/about/ideology/techno-progressivism' | relative_url }}" style="display: inline-block; text-align: left;">
+        <td><a href="{{ '/about/ideology/techno-progressive' | relative_url }}" style="display: inline-block; text-align: left;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Eo_circle_purple_letter-p.svg" style="height: 25px;">
         </a></td>
         <td>1</td>

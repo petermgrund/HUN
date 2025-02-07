@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Government of Hverland
-hv: Hverlandip naalakkersuisut
+hv: Govn Hverlandiq
 page-image: 
   path: 
   cutline: 
@@ -9,7 +9,7 @@ permalink: /about/government
 category: "Government"
 ---
 
-The **Government of Hverland** is a parliamentary representative democratic republic. The government is divided into four branches: the executive branch, the legislative branch, the judicial branch, and the auditory branch. The government is based on the Constitution of Hverland, which was adopted in 1945 and has been amended several times since then. The Constitution establishes the structure and powers of the government.
+The **Government of Hverland** (Govn Hverlandiq) is a parliamentary representative democratic republic. The government is divided into four branches: the executive branch, the legislative branch, the judicial branch, and the auditory branch. The government is based on the Constitution of Hverland, which was adopted in 1945 and has been amended several times since then. The Constitution establishes the structure and powers of the government.
 
 
 ### Executive branch

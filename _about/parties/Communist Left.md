@@ -7,6 +7,8 @@ color: party-cs
 category: "Political parties"
 permalink: /about/party/cs
 page-image: 
-  path:  
+  path: ../../assets/img/com.svg
   cutline: 
 ---
+
+

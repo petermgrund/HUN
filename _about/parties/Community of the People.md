@@ -18,4 +18,20 @@ page-image:
 
 ### Platform
 
+#### Economic issues
+
+#### Energy and environment
+
+#### Transhumanism and AI
+
+#### Social issues
+
+#### Political reform
+
+#### Foreign and defense policy
+
+#### Immigration and national identity
+
+#### Health
+
 ### Leadership

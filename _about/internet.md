@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internet in Hverland
-hv: 
+hv: Qalup
 page-image: 
   path:  
   cutline: 
@@ -9,7 +9,7 @@ permalink: /about/internet
 category: "Culture"
 ---
 
-The use of Internet in Hverland is widespread and the country has one of the highest rates of Internet penetration in the world. The country has a well-developed infrastructure for urban internet access, with 99.96% of households in urban areas having access to the internet. Rural areas have lagged behind, with only 89.5% of households having access to the internet.
+The use of Internet (Qalup) in Hverland is widespread and the country has one of the highest rates of Internet penetration in the world. The country has a well-developed infrastructure for urban internet access, with 99.96% of households in urban areas having access to the internet. Rural areas have lagged behind, with only 89.5% of households having access to the internet.
 
 ### History
 

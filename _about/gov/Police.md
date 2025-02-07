@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hverlandic Police
-hv: Hverlandip politiit
+hv: Hverlandiq qalitsiq
 page-image: 
   path:  
   cutline: 
@@ -9,7 +9,7 @@ permalink: /about/government/police
 category: "Government"
 ---
 
-The **Hverlandic Police** (*Hverlandip politiit*) is the national law enforcement agency of Hverland. As a unitary system, the police force is centralized and operates under the jurisdiction of the Office for Justice and Internal Affairs.
+The **Hverlandic Police** (Hverlandiq qalitsiq) is the national law enforcement agency of Hverland. As a unitary system, the police force is centralized and operates under the jurisdiction of the Office for Justice and Internal Affairs.
 
 ### History
 The Hverlandic Police force was established in 1819.

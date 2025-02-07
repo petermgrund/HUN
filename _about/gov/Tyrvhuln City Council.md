@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Tyrvhuln City Council
-hv: Tyrvhulnip illoqarfiup siunnersuisooqatigiit
+hv: 
 page-image: 
-  path:  
+  path: ../../assets/img/p.png
   cutline: 
 permalink: /about/government/tyrvhuln-city-council
 category: "Government"
 ---
 
-The **Tyrvhuln City Council** (Tyrvhulnip illoqarfiup siunnersuisooqatigiit) is the legislative body of Tyrvhuln, the capital and largest city of Hverland. The council is responsible for passing laws, ordinances, and resolutions that govern the city. It is composed of 31 members who are elected by the residents of Tyrvhuln to serve four-year terms. The council meets regularly to discuss and vote on various issues affecting the city, including budget allocations, zoning regulations, and public services.
+The **Tyrvhuln City Council** is the legislative body of Tyrvhuln, the capital and largest city of Hverland. The council is responsible for passing laws, ordinances, and resolutions that govern the city. It is composed of 31 members who are elected by the residents of Tyrvhuln to serve four-year terms. The council meets regularly to discuss and vote on various issues affecting the city, including budget allocations, zoning regulations, and public services.
 
 # Composition
 
@@ -17,15 +17,13 @@ The City Council consists of 31 elected members who serve four-year terms. Membe
 
 The 2022 municipal election determined the current composition:
 * Government (18)
-    * <span class="party-stripe party-as"></span> [Liberals](/HUN/about/party/as) (5)
-    * <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (5)
+    * <span class="party-stripe party-as"></span> [Liberals](/HUN/about/party/as) (8)
+    * <span class="party-stripe party-ks"></span> [Greens and Futurists](/HUN/about/party/ks) (4)
     * <span class="party-stripe party-is"></span> [Urban Progressives](/HUN/about/party/is) (4)
-    * <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (3)
+    * <span class="party-stripe party-ids"></span> [Social Democratic Party](/HUN/about/party/ids) (4)
 
 * Other parties (13)
-  * [Initsikat](/HUN/about/party/initsikat) (6)
-    * <span class="party-stripe party-pn"></span> [Natural Balance](/HUN/about/party/pn) (4)
-    * <span class="party-stripe party-pi"></span> [A Nation to Preserve](/HUN/about/party/pi) (3)
+  * <span class="party-stripe party-tt"></span> [Tyrvhuln Coalition](/HUN/about/party/tt) (4)
   * <span class="party-stripe party-pa"></span> [Spirit of Innovation](/HUN/about/party/pa) (5)
   * <span class="party-stripe party-ik"></span> [Community of the People](/HUN/about/party/ik) (2)
 
@@ -36,7 +34,7 @@ The 2022 municipal election determined the current composition:
 | Neighbourhood | Seats | Party |
 |---------------|-------| ------|
 | Alguryst      | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-pa"></span>
-| Eirsnyn       | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-pn"></span>
+| Eirsnyn       | 2     | <span class="party-stripe party-as"></span><span class="party-stripe party-tt"></span>
 | Galduryst     | 3     | <span class="party-stripe party-as"></span><span class="party-stripe party-is"></span><span class="party-stripe party-ks"></span>
 | Heimili plass | 3     | <span class="party-stripe party-as"></span><span class="party-stripe party-as"></span><span class="party-stripe party-ik"></span>
 | Hveldrunyn    | 3     | <span class="party-stripe party-is"></span><span class="party-stripe party-ids"></span><span class="party-stripe party-pn"></span>
@@ -71,10 +69,3 @@ The City Council meets regularly in the Tyrvhuln Municipal Building to conduct b
 The council typically meets twice a month, with additional meetings scheduled as needed. Meetings are presided over by the Mayor or a designated council member. The agenda for each meeting is set in advance and includes items such as public hearings, committee reports, and votes on proposed legislation.
 
 The council agenda is managed on the city's legislative information management system, which provides access to meeting schedules, agendas, minutes, and other relevant documents. Residents can also submit comments and feedback on proposed legislation through the system.
-
-# Notable initiatives
-The Tyrvhuln City Council has implemented several notable initiatives in recent years to improve the quality of life for residents and promote sustainable development. Some of these initiatives include:
-* The Green Streets Project to increase green spaces and pedestrian-friendly areas in the city.
-* The Affordable Housing Program to address the housing affordability crisis in Tyrvhuln.
-* Smart City to integrate technology and data to improve city services and infrastructure.
-* Technology and Innovation Hub to support startups and entrepreneurs.

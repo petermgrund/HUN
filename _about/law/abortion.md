@@ -7,9 +7,14 @@ category: "Law"
 permalink: /about/law/abortion
 ---
 
+Since 2023, abortion has been legal in Hverland. The law allows for abortion on request up to 10 weeks of pregnancy. After 10 weeks, abortion is only allowed in special circumstances, such as when the pregnancy poses a risk to the health of the mother or the fetus. 
+
+Abortion politics in Hverland has not been as divisive as in other countries. The main political parties generally believed the pre-2023 abortion laws were too restrictive and supported the 2023 law. However, the socially conservative parties, such as [United Christians](/HUN/about/party/ak) and [Fishers and Farmers](/HUN/about/party/na), have been critical of the law and have called for a return to a more restrictive abortion regime.
+
+
 #### Amendment A1: Change existing abortion laws
 Free vote on the amendment to change existing abortion laws. No whip enforced.
-<table border="1" style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
+<table style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
     <thead>
         <tr>
             <th style="padding: 10px;">Party</th>
@@ -96,7 +101,7 @@ Free vote on the amendment to change existing abortion laws. No whip enforced.
 
 #### Amendment A2: Removal of all abortion restrictions
 Partial whip enforced on the amendment to remove all abortion restrictions. Party's with whip enforced are marked with lock icon.
-<table border="1" style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
+<table style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
     <thead>
         <tr>
             <th style="padding: 10px;">Party</th>
@@ -185,7 +190,7 @@ Partial whip enforced on the amendment to remove all abortion restrictions. Part
 
 Partial whip enforced on the amendment to provide public funding for abortion services. Party's with whip enforced are marked with lock icon.
 
-<table border="1" style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
+<table style="border-collapse: collapse; text-align: left; padding: 10px; width: 100%;">
     <thead>
         <tr>
             <th style="padding: 10px;">Party</th>
@@ -203,9 +208,9 @@ Partial whip enforced on the amendment to provide public funding for abortion se
         </tr>
                 <tr>
             <td style="padding: 10px;"><span class="party-stripe party-pn"></span><a href="{{ '/about/party/pn' | relative_url }}">Natural Balance</a></td>
-            <td style="padding: 10px;">0</td>
-            <td style="padding: 10px; background-color: #FFCCCC;">13</td>
-            <td style="padding: 10px;">0</td>
+            <td style="padding: 10px;">4</td>
+            <td style="padding: 10px; background-color: #FFCCCC;">8</td>
+            <td style="padding: 10px;">1</td>
         </tr>
         <tr>
             <td style="padding: 10px;"><i class="fa-solid fa-lock"></i> <span class="party-stripe party-ks"></span><a href="{{ '/about/party/ks' | relative_url }}">Greens and Futurists</a></td>
@@ -263,9 +268,9 @@ Partial whip enforced on the amendment to provide public funding for abortion se
         </tr>
         <tr>
             <td style="padding: 10px;"><b>Total</b></td>
-            <td style="padding: 10px; background-color: #D6F5D6; color:green;"><i class="fa-solid fa-square-check" style="color: green;"></i><b> 43</b></td>
-            <td style="padding: 10px;"><!-- <i class="fa-solid fa-square-xmark"></i>--><b>37</b></td>
-            <td style="padding: 10px;"><!--<i class="fa-solid fa-square-minus"></i>--><b>0</b></td>
+            <td style="padding: 10px; background-color: #D6F5D6; color:green;"><i class="fa-solid fa-square-check" style="color: green;"></i><b> 48</b></td>
+            <td style="padding: 10px;"><!-- <i class="fa-solid fa-square-xmark"></i>--><b>32</b></td>
+            <td style="padding: 10px;"><!--<i class="fa-solid fa-square-minus"></i>--><b>1</b></td>
         </tr>
     </tbody>
 </table>

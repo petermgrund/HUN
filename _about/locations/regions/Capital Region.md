@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Capital Region
-hv: 
+hv: Qalviknuna
 page-image: 
   path: ../../assets/img/cap-map.svg
   cutline: 
@@ -22,3 +22,6 @@ The **Capital Region** is the most populous region in Hverland. It is home to th
 * [Vyykfryd](/HUN/about/locations/vyykfryd) - population: 3,531
 * [Bryndheimrde](/HUN/about/locations/bryndheimrde) - population: 2,676
 * [Kvlhuln](/HUN/about/locations/kvlhuln) - population: 1,576
+
+### Etomology
+The name "Qalviknuna" means "church region" in Hverlandic. The region is named after the [Church of Hverland](/HUN/about/church), which was founded in Tyrvhuln in 1215.

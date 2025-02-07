@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Church of Hverland
-hv: Hverlandip ilagiissia
+hv: Hverland qalvik
 page-image: 
   path:  ../../assets/img/church.svg
   cutline: 
@@ -9,4 +9,4 @@ permalink: /about/church
 category: "Culture"
 ---
 
-The **Church of Hverland** (Hverlandip ilagiissia) is the national church of Hverland and the largest religious denomination in the country. The church is Lutheran (luteriusiut) in tradition.
+The **Church of Hverland** (Hverland qalvik) is the national church of Hverland and the largest religious denomination in the country. The church is Lutheran (luteriusiut) in tradition.

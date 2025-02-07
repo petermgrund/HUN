@@ -21,6 +21,22 @@ permalink: /about/party/pn
 
 ### Platform
 
+#### Economic issues
+
+#### Energy and environment
+
+#### Transhumanism and AI
+
+#### Social issues
+
+#### Political reform
+
+#### Foreign and defense policy
+
+#### Immigration and national identity
+
+#### Health
+
 ### Leadership
 - Hjorleifur Hjorleifursundr (1922-1932)
 - Thorthdis Bjhrnasdotra (2013-2021)

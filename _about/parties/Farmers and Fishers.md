@@ -6,7 +6,7 @@ abbreviation: NA
 color: party-na
 category: "Political parties"
 page-image: 
-  path:  
+  path: ../../assets/img/f.svg
   cutline: 
 permalink: /about/party/na
 ---
@@ -18,5 +18,21 @@ permalink: /about/party/na
 ### Ideology
 
 ### Platform
+
+#### Economic issues
+
+#### Energy and environment
+
+#### Transhumanism and AI
+
+#### Social issues
+
+#### Political reform
+
+#### Foreign and defense policy
+
+#### Immigration and national identity
+
+#### Health
 
 ### Leadership

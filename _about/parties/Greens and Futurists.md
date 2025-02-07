@@ -19,6 +19,19 @@ permalink: /about/party/ks
 ### Platform
 
 #### Economic issues
-* A new "hour ceiling" must be introduced over the pursuit of citizens' working capacity, so that citizens with very low working capacity and no prospect of recovery should have the right to early retirement.
+
+#### Energy and environment
+
+#### Transhumanism and AI
+
+#### Social issues
+
+#### Political reform
+
+#### Foreign and defense policy
+
+#### Immigration and national identity
+
+#### Health
 
 ### Leadership

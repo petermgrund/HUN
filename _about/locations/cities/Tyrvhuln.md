@@ -2,8 +2,8 @@
 layout: page
 title: Tyrvhuln
 page-image: 
-  path: ../../assets/img/tvflag.svg
-  cutline: Flag
+  path: ../../assets/img/hverhofn_skyline.jpg
+  cutline: 
 permalink: /about/locations/tyrvhuln
 category: "Locations"
 ---
@@ -13,41 +13,34 @@ category: "Locations"
 Tyrvhuln is located in the [Capital Region](/HUN/about/locations/capital), which is the most populous region in Hverland. It borders the municipalities of Vyykfryd to the northeast, Kvlhuln to the north, Skrondfryd to the west, and Svarthvynd to the south. The A1 motorway runs through the city, connecting it to other major cities in the region. 
 
 
-<img src="{{ '/assets/img/hverhofn_skyline.jpg' | relative_url }}" alt="Tyrvhuln" class="img-fluid" style="max-width: 50%;">
-<br/><small>Skyline</small>
-
-<img src="{{ '/assets/img/Hverhofn_map.svg' | relative_url }}" alt="Tyrvhuln" class="img-fluid" style="max-width: 33%;">
-<br/><small>Map</small>
-
-<img src="{{ '/assets/img/hverhofn-flag.svg' | relative_url }}" alt="Tyrvhuln" class="img-fluid">
-<br/><small>Flag</small>
-
-
 # Neighborhoods
 Tyrvhuln is divided into ten neighborhoods. The city council has the authority to create or dissolve neighborhoods as needed. Neighborhoods historically defined themselves around schools and commercial hubs, and many trace their identities to community organizations formed in the early 20th century. The current neighborhoods are as follows: 
 
-* Alguryst (East Neighborhood) - 9,824
-* Eirsnyn (Eir's Cape) - 10,015
+* [Alguryst](/HUN/about/locations/alguryst) (East Neighborhood) - 9,824
+* [Eirsnyn](/HUN/about/locations/eirsnyn) (Eir's Cape) - 10,015
 * Galduryst (Galdur's Neighborhood) - 14,953
 * <a href="{{ '/about/locations/heimili-plass' | relative_url }}">Heimili plass</a> (Home Square) - 11,453
-* Hveldrunyn (Hveldrun's Neighborhood) - 8,824
-* Ny kross (New Crossing) - 10,313
-* Stjornuyst (Stjornu's Neighborhood) - 12,194
-* Runamar (Runa's Lake) - 8,930
+* [Hveldrunyn](/HUN/about/locations/hveldrunyn) (Hveldrun's Neighborhood) - 8,824
+* [Ny kross](/HUN/about/locations/ny-kross) (New Crossing) - 10,313
+* [Stjornuyst](/HUN/about/locations/stjornuyst) (Stjorn's Neighborhood) - 12,194
+* [Runamar](/HUN/about/locations/runamar) (Runa's Islands) - 8,930
 * Vyrshofn (Vyr's Harbor) - 6,086
 * Vesturbyst (West Neighborhood) - 10,931
 
-# Smart City
+### Smart City
 Tyrvhuln is known for its innovative use of technology in urban planning and governance. The city has implemented a number of smart city initiatives, including a city-wide sensor network that collects data on air quality, traffic, and energy consumption. The city has also developed a mobile app that allows residents to report issues to the city government, such as potholes or broken streetlights. 
 
-## Traffic management
-X
-## Mailbox system
-X
-## Waste management
-X
-## Lighting
-X
+#### Traffic management
+
+#### Mailbox system
+
+#### Waste management
+The city has implemented a network of smart waste bins across its neighborhoods. These bins are equipped with sensors that detect the fill level of each bin to prevent overflow. The bins sort waste automatically into categories like recyclables, compostables, and general waste.
+
+In the Stjornuyst neighborhood, Tyrvhuln employs an underground pneumatic waste collection system. This system allows for waste to be vacuumed away from residential and commercial buildings to a central processing facility.
+
+#### Lighting
+
 # Governance
 Tyrvhuln is governed by a mayor and a city council, with the mayor serving as the city’s chief executive. The city council is composed of 31 members elected by residents every four years. The council is responsible for passing legislation, approving the city budget, and overseeing city departments. The mayor is elected separately and serves a four-year term. The mayor is responsible for implementing city policies, managing city departments, and representing the city in national and international affairs.
 
@@ -66,13 +59,13 @@ At the end of 2021, there were 10,977 foreign-born residents or children of two 
 The official language of Tyrvhuln is Hverlandic, a North Germanic language. About 90% of the population speaks Hverlandic as their first language. English is widely spoken as a second language, especially in the business and tourism sectors. Spanish, almost non-existent in the city until the 1990s, is now spoken by 3.5% of the population due to migration from Latin America. Polish, Ukrainian, and Icelandic are also spoken by small communities.
 
 ## Religion
-X
+
 ## Education
-X
+
 # Transportation
-X
+
 # Economy
-X
+
 
 # Culture
 The city is home to the National Museum of Hverland, which houses a collection of artifacts and artworks that trace the history of the country. The city also has a thriving music scene, with venues that host local and international acts. Tyrvhuln is known for its annual music festival, Hverfest, which attracts thousands of visitors each year. The city also has a number of parks and green spaces, including the X Park and the X Botanical Gardens.

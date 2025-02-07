@@ -6,6 +6,9 @@ abbreviation: PA
 color: party-pa
 category: "Political parties"
 permalink: /about/party/pa
+page-image:
+  path: ../../assets/img/ai_logo.svg
+
 ---
 
 **Spirit of Innovation** (Pilersuinerup anersaa) is a [Sverrist](/HUN/about/ideology/sverrism) political party in Hverland. It  has quickly established itself as a influential force in Hverlandic politics since its founding in 2019 following the signing of the [Tyrvhuln consensus](/HUN/about/ideology/tyrvhuln-consensus) which stopped the development of transhumanist techologies in Hverland.
