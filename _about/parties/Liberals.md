@@ -30,22 +30,29 @@ The party opposes all forms of statutory hereditary privileges, saying no citize
 #### Economic issues
 * Oppose the introduction of a wealth tax.
 * Restructure the tax system to make it more progressive.
-
+* Right to work
 
 #### Energy and environment
+* Oppose new carbon taxes.
+
 
 #### Transhumanism and AI
 * Pass new law on digital child protection and regulation of digital platforms.
 
 #### Social issues
 * Transfer the tasks of civil registration from the church to the state.
-* Strengthen the *Firearms Control Act* to outlaw high-capacity magazines and armor-piercing rounds
+* Strengthen the *Firearms Control Act* to outlaw high-capacity magazines and armor-piercing rounds.
+* Support euthanasia and assisted suicide legislation.
+* Support single-sex spaces (e.g., prisons, shelters, locker rooms, washrooms) and the benefits of single-sex categories (e.g., sports, awards, grants, scholarships).
 
 #### Political reform
 
 #### Foreign and defense policy
 
 #### Immigration and national identity
+
+#### Crime
+* Ensure young violent or serious repeat offenders 14 and over are tried as adults.
 
 #### Health
 * Ensure victims of gender-based violence are entitled to 10 hours of free psychological help.

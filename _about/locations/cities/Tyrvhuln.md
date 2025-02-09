@@ -16,16 +16,16 @@ Tyrvhuln is located in the [Capital Region](/HUN/about/locations/capital), which
 # Neighborhoods
 Tyrvhuln is divided into ten neighborhoods. The city council has the authority to create or dissolve neighborhoods as needed. Neighborhoods historically defined themselves around schools and commercial hubs, and many trace their identities to community organizations formed in the early 20th century. The current neighborhoods are as follows: 
 
-* [Alguryst](/HUN/about/locations/alguryst) (East Neighborhood) - 9,824
-* [Eirsnyn](/HUN/about/locations/eirsnyn) (Eir's Cape) - 10,015
-* Galduryst (Galdur's Neighborhood) - 14,953
-* <a href="{{ '/about/locations/heimili-plass' | relative_url }}">Heimili plass</a> (Home Square) - 11,453
-* [Hveldrunyn](/HUN/about/locations/hveldrunyn) (Hveldrun's Neighborhood) - 8,824
-* [Ny kross](/HUN/about/locations/ny-kross) (New Crossing) - 10,313
-* [Stjornuyst](/HUN/about/locations/stjornuyst) (Stjorn's Neighborhood) - 12,194
-* [Runamar](/HUN/about/locations/runamar) (Runa's Islands) - 8,930
-* Vyrshofn (Vyr's Harbor) - 6,086
-* Vesturbyst (West Neighborhood) - 10,931
+* [Frylnykstravandoral](/HUN/about/locations/frylnykstravandoral) - 9,824
+* [Grylhundvyyl](/HUN/about/locations/grylhundvyyl) - 10,015
+* [Kvlhuldryskandor]() - 14,953
+* [Drukhlyn](/HUN/about/locations/drukhlyn) - 11,453
+* [Hveldrunyn](/HUN/about/locations/hveldrunyn) - 8,824
+* [Nykvryl](/HUN/about/locations/nykvryl) - 10,313
+* [Qyrvlyn](/HUN/about/locations/qyrvlyn) - 12,194
+* [Tyrvhunik](/HUN/about/locations/tyrvhunik) - 8,930
+* [Vyykstrunik]() - 6,086
+* [Yvkruk]() - 10,931
 
 ### Smart City
 Tyrvhuln is known for its innovative use of technology in urban planning and governance. The city has implemented a number of smart city initiatives, including a city-wide sensor network that collects data on air quality, traffic, and energy consumption. The city has also developed a mobile app that allows residents to report issues to the city government, such as potholes or broken streetlights. 
