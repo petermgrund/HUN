@@ -1,0 +1,77 @@
+---
+layout: core
+---
+<style>
+  /* Table of Contents styling */
+  #toc {
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #toc a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    margin-bottom: 5px;
+  }
+  
+  #toc a:hover {
+    color: #b85bff;
+  }
+
+  /* Infobox styling to mimic Wikipedia's infobox look */
+  .infobox {
+    float: right;
+    width: 150px;                /* Container width is 150px */
+    margin: 0 0 1em 1em;          /* Space on the left and below */
+    background-color: #f9f9f9;
+    border: 1px solid #a2a9b1;
+    padding: 0.5em;
+    font-size: 90%;
+    line-height: 1.4em;
+  }
+  .infobox .infobox-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    text-align: center;
+    background-color: #e9ecef;
+    padding: 0.2em;
+    border-bottom: 1px solid #a2a9b1;
+  }
+  .infobox img {
+    display: block;
+    margin: 0 auto 0.5em;
+    max-width: 150px; /* Ensure images are at most 150px wide */
+    height: auto;     /* Maintain aspect ratio */
+  }
+  .infobox ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .infobox ul li {
+    margin: 0.2em 0;
+  }
+  
+  /* Style article headings similar to Wikipedia */
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+  
+  /* Clear floats after article content */
+  .article-content::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+</style>
+
+{% if page.subhead %}
+  <p class="subhed">{{ page.subhead }}</p>
+{% endif %}
+
+<article class="article-content">
+  {{ content }}
+</article>

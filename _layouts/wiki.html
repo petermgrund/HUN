@@ -3,6 +3,7 @@ layout: base
 ---
 
 <style>
+  /* Table of Contents styling */
   #toc {
     padding: 10px;
     margin-bottom: 20px;
@@ -18,31 +19,73 @@ layout: base
   #toc a:hover {
     color: #b85bff;
   }
-  </style>
+
+  /* Infobox styling */
+  .infobox {
+    float: right;
+    width: 250px;                /* Adjust width as needed */
+    margin: 0 0 1em 1em;          /* Margin on left and below for spacing */
+    background-color: #f9f9f9;
+    border: 1px solid #a2a9b1;
+    padding: 0.5em;
+    font-size: 80%;
+    line-height: 1.4em;
+  }
+  .infobox .infobox-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    text-align: center;
+    background-color: #e9ecef;
+    padding: 0.2em;
+    border-bottom: 1px solid #a2a9b1;
+  }
+  .infobox img {
+    display: block;
+    margin: 0 auto 0.5em;
+    max-width: 100%;
+    height: auto;
+  }
+  .infobox ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .infobox ul li {
+    margin: 0.2em 0;
+  }
+
+  /* Clearfix to ensure the container wraps floated elements */
+  .wiki-content::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+</style>
 
 {%- if page.title -%}
-    <h1 class="headline"><hr>{{page.title}}</h1>
+  <h1 class="headline"><hr>{{ page.title }}</h1>
 {%- endif -%}
 {%- if page.subhed -%}
-    <p class="subhed">{{ page.subhed }}</p>
+  <p class="subhed">{{ page.subhed }}</p>
 {%- endif -%}
 
 {%- if page.page-image.path -%}
-    <div class="page-image-container">
+  <div class="page-image-container">
     <figure class="page-image">
-        <img src="{{ page.page-image.path }}" alt="{{ page.page-image.alt-text }}"/>
-        {%- if page.page-image.cutline -%}
-            <figcaption>{{ page.page-image.cutline }}</figcaption>
-        {%- endif -%}
+      <img src="{{ page.page-image.path }}" alt="{{ page.page-image.alt-text }}"/>
+      {%- if page.page-image.cutline -%}
+        <figcaption>{{ page.page-image.cutline }}</figcaption>
+      {%- endif -%}
     </figure>
-    </div>
+  </div>
 {%- endif -%}
 
 {%- if page.category -%}
-    <h4 class="subhed"><hr>About → {{page.category}}</h4>
+  <h4 class="subhed"><hr>About → {{ page.category }}</h4>
 {%- endif -%}
 
 <article class="wiki-content">
   <div id="toc"></div>
-    {{ content }}
+  {{ content }}
 </article>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wiki
 title: Drukhlyn
 page-image: 
   path:  ../../assets/img/g2102.svg
@@ -7,6 +7,20 @@ page-image:
 category: "Locations"
 permalink: /about/locations/drukhlyn
 ---
+
+<div class="infobox">
+  <div class="infobox-title">Drukhlyn</div>
+  <div class="infobox-image">
+    <img src="" alt="Grylhundvyyl">
+  </div>
+    <div class="infobox-image">
+    <img src="../../assets/img/g2102.svg" alt="Drukhlyn">
+  </div>
+  <hr>
+  <ul>
+    <li><strong>Population:</strong> 10,015 (2022)</li>
+  </ul>
+</div>
 
 **Drukhlyn** is a residential neighborhood in western [Tyrvhuln](/HUN/about/locations/tyrvhuln). It has a population of 11,453.
 
